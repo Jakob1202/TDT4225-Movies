@@ -1,0 +1,11 @@
+collection,movies,movies_with_revenue,total_revenue_usd,median_vote_average,release_dates
+Harry Potter Collection,8,8,7707367425.0,7.5,2001-11-16 → 2011-07-07
+Star Wars Collection,8,8,7434494790.0,7.45,1977-05-25 → 2016-12-14
+James Bond Collection,26,26,7106970239.0,6.3,1962-10-04 → 2015-10-26
+The Fast and the Furious Collection,8,8,5125098793.0,6.65,2001-06-22 → 2017-04-12
+Pirates of the Caribbean Collection,5,5,4521576826.0,6.9,2003-07-09 → 2017-05-23
+Transformers Collection,5,5,4366101244.0,6.1,2007-06-27 → 2017-06-21
+Despicable Me Collection,6,4,3691070216.0,6.9,2010-07-08 → 2017-06-15
+The Twilight Collection,5,5,3342107290.0,5.8,2008-11-20 → 2012-11-13
+Ice Age Collection,5,5,3216708553.0,6.5,2002-03-10 → 2016-06-23
+Jurassic Park Collection,4,4,3031484143.0,6.35,1993-06-11 → 2015-06-09

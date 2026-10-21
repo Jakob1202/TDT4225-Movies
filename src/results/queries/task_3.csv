@@ -1,0 +1,11 @@
+actor,movies,distinct_genres,example_genres
+Christopher Lee,148,20,"Horror, Adventure, Drama, Action, Thriller"
+Donald Sutherland,108,20,"Drama, Thriller, Action, Comedy, Adventure"
+Christopher Walken,96,20,"Drama, Comedy, Thriller, Crime, Action"
+Dennis Hopper,94,20,"Drama, Thriller, Action, Comedy, Crime"
+Keith David,87,20,"Action, Drama, Thriller, Comedy, Science Fiction"
+Liam Neeson,82,20,"Drama, Thriller, Action, Adventure, Crime"
+James Earl Jones,79,20,"Drama, Comedy, Action, Adventure, Family"
+Jim Broadbent,78,20,"Drama, Comedy, Adventure, Family, Romance"
+Martin Sheen,77,20,"Drama, Thriller, Crime, Comedy, Action"
+Ned Beatty,72,20,"Drama, Comedy, Action, Thriller, Crime"
