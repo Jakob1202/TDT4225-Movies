@@ -45,8 +45,8 @@ John Ridgely,Jack Mower,16,6.42
 Huntz Hall,David Gorcey,16,6.3636
 Grey Griffin,Jeff Bennett,16,6.3625
 Leo Gorcey,David Gorcey,16,6.2273
+Irving Bacon,Bess Flowers,16,6.2214
 Edna Purviance,Leo White,16,6.05
-Irving Bacon,Bess Flowers,16,5.8067
 Raymond Burr,William R. Moses,16,5.7308
 Gabriel Dell,Leo Gorcey,16,5.5375
 Huntz Hall,Gabriel Dell,16,5.5375
@@ -369,6 +369,7 @@ Glen Cavender,Frank Mayo,10,6.125
 Cheng Miu,Yeung Chi-Hing,10,6.12
 John Litel,Jack Mower,10,6.12
 Ikio Sawamura,Haruo Nakajima,10,6.11
+James Flavin,Joseph Crehan,10,6.1
 Om Puri,Paresh Rawal,10,6.1
 Lo Lieh,Ku Feng,10,6.08
 John J. Richardson,Paul Panzer,10,6.0571
@@ -401,14 +402,13 @@ Mary Woronov,Paul Bartel,10,5.7
 Spede Pasanen,Simo Salminen,10,5.6667
 Adam Sandler,Jared Sandler,10,5.62
 John F. Goff,George Buck Flower,10,5.58
+Clark Gable,Joan Crawford,10,5.5667
 Linnea Quigley,Michelle Bauer,10,5.5111
-James Flavin,Joseph Crehan,10,5.49
 Marjatta Raita,Tapio Hämäläinen,10,5.47
 Paresh Rawal,Sunil Shetty,10,5.47
 Simo Salminen,Tapio Hämäläinen,10,5.42
 Marjatta Raita,Simo Salminen,10,5.39
 Akshay Kumar,Johnny Lever,10,5.3
-Clark Gable,Joan Crawford,10,5.01
 Huntz Hall,William Benedict,10,5.0
 Leo Gorcey,William Benedict,10,5.0
 Phil Vischer,Mike Nawrocki,10,4.4
@@ -449,6 +449,7 @@ Michael Palin,Carol Cleveland,9,6.9778
 Terry Gilliam,Carol Cleveland,9,6.9778
 Rainer Werner Fassbinder,Hanna Schygulla,9,6.9667
 Takashi Shimura,Shôichi Hirose,9,6.9556
+Leo White,Lee Phelps,9,6.9143
 Amrish Puri,Om Puri,9,6.8778
 Frank Oz,Richard Hunt,9,6.8571
 Rainer Werner Fassbinder,Irm Hermann,9,6.8556
@@ -583,6 +584,7 @@ Chiang Sheng,Yu Tai-Ping,9,6.2333
 Creighton Hale,Jack Mower,9,6.2333
 Lu Feng,Yu Tai-Ping,9,6.2333
 Philip Kwok Chun-Fung,Yu Tai-Ping,9,6.2333
+Henry O'Neill,Joseph Crehan,9,6.2167
 Arthur Aylesworth,Harry Tyler,9,6.2
 Russi Taylor,Tress MacNeille,9,6.2
 Creighton Hale,Frank Mayo,9,6.1556
@@ -601,7 +603,6 @@ Shôichi Hirose,Hideo Shibuya,9,6.0778
 Adam Sandler,Robert Smigel,9,6.0667
 Lo Lieh,Cheng Miu,9,6.0667
 Edward Keane,Jack Mower,9,6.0556
-Leo White,Lee Phelps,9,6.05
 Mary Woronov,Dick Miller,9,6.0444
 Wilfred Lucas,Edmund Mortimer,9,6.0375
 James Cagney,Frank McHugh,9,6.0333
@@ -636,7 +637,6 @@ Ward Bond,Arthur Aylesworth,9,5.7333
 Wataru Ômae,Haruo Nakajima,9,5.6778
 Spede Pasanen,Marjatta Raita,9,5.6667
 Nelson Eddy,Jeanette MacDonald,9,5.5429
-Henry O'Neill,Joseph Crehan,9,5.3286
 Ciccio Ingrassia,Franco Franchi,9,5.1833
 Gabriel Dell,William Benedict,9,4.3333
 Toshirō Mifune,Takeshi Katô,8,7.9125
@@ -844,6 +844,7 @@ Joe King,Joseph Crehan,8,6.6571
 Sharla Cheung Man,Ng Man-Tat,8,6.65
 Kōhei Miyauchi,Toshio Furukawa,8,6.6375
 Ninetto Davoli,Franco Citti,8,6.6375
+Charles C. Wilson,Bess Flowers,8,6.6286
 Crystal Lowe,Geoff Gustafson,8,6.625
 Eric Mabius,Crystal Lowe,8,6.625
 Eric Mabius,Geoff Gustafson,8,6.625
@@ -941,6 +942,7 @@ James T. Kelley,Charlotte Mineau,8,6.35
 Nigel De Brulier,John George,8,6.35
 Jun Tazaki,Yoshifumi Tajima,8,6.325
 Shôichi Hirose,Ren Yamamoto,8,6.3125
+Byron Foulger,Bess Flowers,8,6.3
 Charlie Watts,Bill Wyman,8,6.3
 Elliot Ngok,Ku Feng,8,6.3
 Frank Welker,Tress MacNeille,8,6.3
@@ -1040,7 +1042,6 @@ Jonathan Loughran,Jackie Sandler,8,5.8375
 Paresh Rawal,Asrani,8,5.8375
 Russell Simpson,Spencer Charters,8,5.8375
 Adam Sandler,Peter Dante,8,5.8
-Charles C. Wilson,Bess Flowers,8,5.8
 Charles Trowbridge,Jack Mower,8,5.8
 John Harron,Paul Panzer,8,5.8
 Rob Schneider,Jackie Sandler,8,5.8
@@ -1053,6 +1054,7 @@ Michael Ian Black,Paul Rudd,8,5.75
 Paolo Villaggio,Milena Vukotic,8,5.7375
 Paul Rudd,Ken Marino,8,5.7375
 Shôichi Hirose,Katsumi Tezuka,8,5.7375
+Frank Puglia,Bess Flowers,8,5.7333
 Russell Hicks,Frank Mills,8,5.7286
 Herbert Lom,Burt Kwouk,8,5.7125
 Allen Covert,Nick Swardson,8,5.7
@@ -1070,7 +1072,6 @@ Corey Feldman,Corey Haim,8,5.5125
 Ajay Devgn,Mukesh Tiwari,8,5.4875
 Dean Martin,Frank Sinatra,8,5.4875
 Akshay Kumar,Kareena Kapoor,8,5.4
-Byron Foulger,Bess Flowers,8,5.4
 Spencer Charters,Jack Mower,8,5.3857
 Eric Judor,Ramzy Bedia,8,5.375
 Michael Winslow,Marion Ramsey,8,5.3
@@ -1079,7 +1080,6 @@ Birgitta Andersson,Björn Gustafson,8,5.2625
 Cole Sprouse,Dylan Sprouse,8,5.2143
 Ulf Brunnberg,Per Grundén,8,5.1375
 Jean-Claude Van Damme,Kristopher Van Varenberg,8,4.9625
-Frank Puglia,Bess Flowers,8,4.9143
 John Wayne,Earl Dwire,8,4.25
 Gabriele Tinti,Laura Gemser,8,4.1625
 Yoshio Tsuchiya,Takeshi Katô,7,7.9143
@@ -1368,6 +1368,7 @@ Simon Yam,Gordon Lam Ka-Tung,7,6.7143
 Toshio Furukawa,Hirotaka Suzuoki,7,6.7143
 Totò,Mario Castellani,7,6.7143
 Catherine Deneuve,Michel Piccoli,7,6.7
+Charles C. Wilson,Joseph Crehan,7,6.7
 Emmett Vogan,Chuck Hamilton,7,6.7
 Jess Harnell,Jim Ward,7,6.7
 Ku Feng,Hao Li-Jen,7,6.7
@@ -1426,6 +1427,7 @@ Dick Wessel,Frank Mayo,7,6.5714
 John Ridgely,Mike Lally,7,6.5714
 Tadanobu Asano,Yoshiyuki Morishita,7,6.5714
 Ben Affleck,Jason Lee,7,6.5667
+Barton MacLane,Joseph Crehan,7,6.56
 Charles C. Wilson,Jack Mower,7,6.5571
 Donald Crisp,Henry O'Neill,7,6.55
 Bill Hader,Andy Samberg,7,6.5429
@@ -1487,6 +1489,7 @@ Bela Lugosi,Boris Karloff,7,6.4571
 Bess Flowers,Frank Mayo,7,6.4571
 Frank Faylen,Mike Lally,7,6.4571
 Mayumi Tanaka,Daisuke Gouri,7,6.4571
+Frank Faylen,Joseph Crehan,7,6.45
 Jeff Bennett,Fred Tatasciore,7,6.45
 John Turturro,Spike Lee,7,6.45
 Christopher Lee,Michael Gough,7,6.4429
@@ -1559,6 +1562,7 @@ Ward Bond,Russell Hicks,7,6.2857
 Yoshifumi Tajima,Shin Ôtomo,7,6.2857
 Chris Rock,Cedric the Entertainer,7,6.2833
 Paul Panzer,Nat Carr,7,6.2833
+Shirley MacLaine,Dean Martin,7,6.2833
 Barbara Windsor,Joan Sims,7,6.2714
 Barbara Windsor,Sid James,7,6.2714
 Burt Young,Sylvester Stallone,7,6.2714
@@ -1727,7 +1731,6 @@ Henry O'Neill,Jack Mower,7,5.7571
 Joan Blondell,Guy Kibbee,7,5.7571
 Santiago Segura,Enrique Villén,7,5.7571
 Akshay Kumar,Rajpal Yadav,7,5.7429
-Charles C. Wilson,Joseph Crehan,7,5.7429
 Gérard Jugnot,Michel Blanc,7,5.7429
 Mary Field,Bess Flowers,7,5.7429
 Spencer Charters,Arthur Aylesworth,7,5.7429
@@ -1759,7 +1762,6 @@ Lionel Barrymore,Marie Blake,7,5.5333
 Stanley Andrews,Selmer Jackson,7,5.5333
 Walter Kingsford,Marie Blake,7,5.5333
 Charles Middleton,Eddy Waller,7,5.5286
-Frank Faylen,Joseph Crehan,7,5.5286
 Nick Swardson,Sadie Sandler,7,5.5286
 Paresh Rawal,Shakti Kapoor,7,5.5286
 Arthur Aylesworth,Eddy Waller,7,5.5
@@ -1767,11 +1769,9 @@ Tom Wilson,Milton Kibbee,7,5.5
 Jun Kunimura,Pierre Taki,7,5.4857
 Katharine Isabelle,Brendan Fletcher,7,5.4714
 Rajpal Yadav,Paresh Rawal,7,5.4714
-Barton MacLane,Joseph Crehan,7,5.4667
 James Franco,Vince Jolivette,7,5.4143
 Fred Willard,Jennifer Coolidge,7,5.4
 Lew Ayres,Walter Kingsford,7,5.3857
-Shirley MacLaine,Dean Martin,7,5.3857
 Michael Winslow,Steve Guttenberg,7,5.3429
 Laurene Landon,James Dixon,7,5.3143
 Nick Swardson,David Spade,7,5.2286
@@ -1899,6 +1899,7 @@ Toshirō Mifune,Susumu Fujita,6,7.4833
 Warwick Davis,Jamie Waylett,6,7.4833
 Timothy Spall,David Thewlis,6,7.4667
 Bert Stevens,Scott Seaton,6,7.4667
+Buster Keaton,Jimmy Durante,6,7.4667
 Yuriko Yamaguchi,Fumihiko Tachiki,6,7.4667
 Şener Şen,Münir Özkul,6,7.4667
 Adile Naşit,Tarık Akan,6,7.46
@@ -2051,6 +2052,7 @@ Mona Marshall,John Cygan,6,7.0333
 Pierre Watkin,Irving Bacon,6,7.0333
 Vittorio Gassman,Silvana Mangano,6,7.0333
 Glen Cavender,Nat Carr,6,7.02
+Porter Hall,Byron Foulger,6,7.02
 Frank Moran,Dewey Robinson,6,7.0167
 John Carpenter,George A. Romero,6,7.0167
 Alan Hale,George Tobias,6,7.0
@@ -2096,6 +2098,7 @@ Kathleen Freeman,Bess Flowers,6,6.95
 Rainer Werner Fassbinder,Ingrid Caven,6,6.95
 Ruth Sheen,Lesley Manville,6,6.95
 Charlie Chaplin,Hank Mann,6,6.95
+Allen Jenkins,Joseph Crehan,6,6.94
 Cyril Ring,Field Norton,6,6.9333
 George Lloyd,Milton Kibbee,6,6.9333
 James Earl Jones,Peter Mayhew,6,6.9333
@@ -2141,6 +2144,7 @@ Shum Lo,Gam Tin-Chue,6,6.8667
 Tatsuya Nakadai,Jun Hamamura,6,6.8667
 Una O'Connor,E.E. Clive,6,6.8667
 Byron Foulger,John Dilson,6,6.86
+Keenan Wynn,Bess Flowers,6,6.86
 Sam Harris,Hans Moebus,6,6.86
 Albert Austin,Loyal Underwood,6,6.85
 Arthur Loft,Joe Devlin,6,6.85
@@ -2172,6 +2176,7 @@ Lee Shumway,Harry Tenbrook,6,6.8167
 Leyland Hodgson,Leonard Mudie,6,6.8167
 Lupe Carriles,Enedina Díaz de León,6,6.8167
 Yoshio Tsuchiya,Kamayuki Tsubono,6,6.8167
+Barton MacLane,Henry O'Neill,6,6.8
 Bess Flowers,Wedgwood Nowell,6,6.8
 Charles Lane,Edward Keane,6,6.8
 Danny Mann,Carlos Alazraqui,6,6.8
@@ -2294,6 +2299,7 @@ Robb Wells,Patrick Roach,6,6.65
 Sammo Hung,Fung Hak-On,6,6.65
 Tatsuo Saitô,Takeshi Sakamoto,6,6.65
 Toshio Furukawa,Daisuke Gouri,6,6.65
+Bob Dylan,Joan Baez,6,6.64
 Eddy Chandler,Bess Flowers,6,6.64
 John Ashley,Frankie Avalon,6,6.64
 Anthony Wong,Shawn Yue,6,6.6333
@@ -2400,6 +2406,7 @@ Ulli Lommel,Ingrid Caven,6,6.5333
 Walter Brennan,Ward Bond,6,6.5333
 Yuen Wah,Yuen Biao,6,6.5333
 Bess Flowers,Edgar Dearing,6,6.52
+Clark Gable,Cliff Edwards,6,6.52
 Emmett Vogan,Walter Miller,6,6.52
 Frank Faylen,Tom Wilson,6,6.52
 Jean Gabin,Jacques Marin,6,6.52
@@ -2432,6 +2439,7 @@ Michael Palin,Neil Innes,6,6.5167
 Naoko Watanabe,Naoki Tatsuta,6,6.5167
 Shôichi Hirose,Akio Kusama,6,6.5167
 Stephen Chow,Sharla Cheung Man,6,6.5167
+Allen Jenkins,Warren William,6,6.5
 Bernard Gorcey,William Benedict,6,6.5
 Cyd Charisse,Lena Horne,6,6.5
 Danny Glover,Steve Kahan,6,6.5
@@ -2445,6 +2453,7 @@ John Ridgely,Creighton Hale,6,6.5
 Leonor Gómez,Polo Ramos,6,6.5
 Nolan North,John DiMaggio,6,6.5
 Om Puri,Shah Rukh Khan,6,6.5
+Samuel S. Hinds,Bess Flowers,6,6.5
 Yoshio Tsuchiya,Akio Kusama,6,6.5
 Charles Hawtrey,Peter Gilmore,6,6.4833
 Cyril Ring,Bert Stevens,6,6.4833
@@ -2499,6 +2508,7 @@ Senkichi Ômura,Ren Yamamoto,6,6.45
 Shin Ôtomo,Ren Yamamoto,6,6.45
 George Lloyd,Joseph Crehan,6,6.44
 Larry the Cable Guy,Jeff Foxworthy,6,6.44
+Walter Pidgeon,Van Johnson,6,6.44
 Ann Sheridan,Tom Wilson,6,6.4333
 Charles Hawtrey,Terry Scott,6,6.4333
 Cheng Miu,Lam Fai-Wong,6,6.4333
@@ -2530,6 +2540,7 @@ William Sadler,Kohl Sudduth,6,6.4167
 William Sadler,Tom Selleck,6,6.4167
 William Sadler,William Devane,6,6.4167
 Charles Trowbridge,John Dilson,6,6.4
+Clark Gable,Myrna Loy,6,6.4
 Cyril Ring,Tom Quinn,6,6.4
 Roy Bucko,Tex Cooper,6,6.4
 Tom Wilson,Charles Sullivan,6,6.4
@@ -2608,6 +2619,7 @@ Paul Hurst,Bess Flowers,6,6.325
 Gabriel Dell,Bobby Jordan,6,6.325
 Huntz Hall,Bobby Jordan,6,6.325
 Charles Halton,Frank O'Connor,6,6.32
+Ginger Rogers,Bess Flowers,6,6.32
 Guy Kibbee,Harry Tenbrook,6,6.32
 Irving Bacon,Harry Tyler,6,6.32
 Chiang Sheng,Lo Meng,6,6.3167
@@ -2659,6 +2671,7 @@ Ugo Bologna,Gigi Reder,6,6.2667
 Ward Bond,James Cagney,6,6.2667
 Frank Faylen,Wilfred Lucas,6,6.26
 Frank Mills,Bess Flowers,6,6.26
+John Ridgely,John Garfield,6,6.26
 Bill Nighy,Tom Hollander,6,6.25
 Dick Wei,Johnny Wang Lung-Wei,6,6.25
 James Flavin,Jack Pennick,6,6.25
@@ -2673,6 +2686,7 @@ Wilfred Lau,Michelle Ye Xuan,6,6.25
 Donald Crisp,Henry Stephenson,6,6.24
 Lionel Barrymore,Wallace Beery,6,6.24
 Robin Williams,Whoopi Goldberg,6,6.24
+Samuel S. Hinds,Irving Bacon,6,6.24
 Amitabh Bachchan,Aishwarya Rai Bachchan,6,6.2333
 Belinda Balaski,Dick Miller,6,6.2333
 Conrad Vernon,Tom McGrath,6,6.2333
@@ -2730,6 +2744,7 @@ Yoshio Tsuchiya,Hideo Shibuya,6,6.1667
 Jack Mower,Pat O'Malley,6,6.16
 John Michael Higgins,Fred Willard,6,6.16
 Sol Gorss,John J. Richardson,6,6.16
+Tom Dugan,Frank McHugh,6,6.16
 André Dussollier,Pierre Arditi,6,6.15
 Ann Rutherford,Sara Haden,6,6.15
 Bernard Bresslaw,Derek Francis,6,6.15
@@ -2878,6 +2893,7 @@ Rinsaku Ogata,Mitsuo Tsuda,6,5.9833
 Samuel S. Hinds,Nell Craig,6,5.9833
 Shôichi Hirose,Yutaka Oka,6,5.9833
 Fred MacMurray,Claudette Colbert,6,5.975
+Joan Blondell,Frank McHugh,6,5.975
 Adam Sandler,Sunny Sandler,6,5.9667
 Bruce Dern,Dick Miller,6,5.9667
 Diego Abatantuono,Claudio Bisio,6,5.9667
@@ -2959,7 +2975,6 @@ Susan Sarandon,Eva Amurri Martino,6,5.8667
 Will Ferrell,David Koechner,6,5.8667
 Jimi Hendrix,Mitch Mitchell,6,5.85
 Joe Lo Truglio,Ken Marino,6,5.85
-Porter Hall,Byron Foulger,6,5.85
 Prakash Raj,Kota Srinivasa Rao,6,5.85
 Reginald Owen,Robert Young,6,5.85
 Ward Bond,Alan Hale,6,5.85
@@ -2987,7 +3002,6 @@ Prakash Raj,M. S. Narayana,6,5.8
 Vera Lewis,Frank McHugh,6,5.8
 Vince Vaughn,Ben Stiller,6,5.8
 Akihiko Hirata,Hideo Shibuya,6,5.7833
-Allen Jenkins,Joseph Crehan,6,5.7833
 Harry Dean Stanton,Kris Kristofferson,6,5.7833
 Hisaya Itô,Hideo Shibuya,6,5.7833
 Lillian Gish,Dorothy Gish,6,5.7833
@@ -3027,7 +3041,6 @@ Henry Strzalkowski,Nick Nicholson,6,5.7167
 Irving Bacon,Cyril Ring,6,5.7167
 Jeff Bennett,Kath Soucie,6,5.7167
 Jennifer Coolidge,John Cho,6,5.7167
-Keenan Wynn,Bess Flowers,6,5.7167
 Allen Covert,Blake Clark,6,5.7
 Allen Covert,Sadie Sandler,6,5.7
 Eve Arden,Bess Flowers,6,5.7
@@ -3059,6 +3072,7 @@ Arthur Aylesworth,Paul E. Burns,6,5.6333
 Ben Stiller,Will Ferrell,6,5.6333
 Cary Grant,Irving Bacon,6,5.6333
 Russell Hicks,Victor Kilian,6,5.6333
+Buster Keaton,Cliff Edwards,6,5.625
 Ottaviano Dell'Acqua,Romano Puppo,6,5.62
 Claudia Galli,Richard Ulfsäter,6,5.6167
 John Litel,Frank Wilcox,6,5.6167
@@ -3067,7 +3081,6 @@ Russell Hicks,Edmund Mortimer,6,5.6167
 Sheri Moon Zombie,Daniel Roebuck,6,5.6167
 Santiago Segura,Carlos Areces,6,5.6
 Ward Bond,Clem Bevans,6,5.6
-Buster Keaton,Jimmy Durante,6,5.6
 Debbie Rochon,Joe Fleishaker,6,5.6
 Debbie Rochon,Ron Jeremy,6,5.6
 Emmett Vogan,John Harron,6,5.6
@@ -3091,7 +3104,6 @@ John Harron,Charles Trowbridge,6,5.55
 Ray Teal,Walter Sande,6,5.54
 Trevor Bardette,Jack Mower,6,5.54
 Ben Stiller,Andy Dick,6,5.5333
-Bob Dylan,Joan Baez,6,5.5333
 Frank Orth,Marie Blake,6,5.5333
 Frank Orth,Walter Kingsford,6,5.5333
 Jason Alexander,Whoopi Goldberg,6,5.5333
@@ -3116,9 +3128,6 @@ Akshay Kumar,Katrina Kaif,6,5.45
 Kevin Sorbo,Melanie Stone,6,5.45
 Frank Orth,Barbara Bedford,6,5.44
 Byron Foulger,Selmer Jackson,6,5.4333
-Clark Gable,Cliff Edwards,6,5.4333
-Allen Jenkins,Warren William,6,5.4167
-Samuel S. Hinds,Bess Flowers,6,5.4167
 Chishu Ryu,Tatsuo Saitô,6,5.4
 Nick Swardson,Jared Sandler,6,5.4
 Ben Stiller,Janeane Garofalo,6,5.3833
@@ -3127,9 +3136,7 @@ Barboura Morris,Dick Miller,6,5.3667
 Bud Osborne,Milton Kibbee,6,5.3667
 Frank Sinatra,"Sammy Davis, Jr.",6,5.3667
 Salman Khan,Arbaaz Khan,6,5.3667
-Walter Pidgeon,Van Johnson,6,5.3667
 Danny Trejo,Daryl Sabara,6,5.35
-Clark Gable,Myrna Loy,6,5.3333
 Egon Brecher,Stuart Holmes,6,5.3333
 Osman Yusuf,Haruo Nakajima,6,5.3333
 Sid Haig,Bill Moseley,6,5.32
@@ -3148,19 +3155,14 @@ Patrick Warburton,Tom Kenny,6,5.2833
 Ray Teal,Bess Flowers,6,5.2833
 Wilfred Lucas,Jack Mower,6,5.28
 Dick Powell,Hugh Herbert,6,5.28
-Ginger Rogers,Bess Flowers,6,5.2667
 Henry O'Neill,Hobart Cavanaugh,6,5.2667
 John Carradine,Arthur Aylesworth,6,5.2667
 Frank Jenks,Bess Flowers,6,5.26
 Christopher Lee,Maria Rohm,6,5.25
 Frank McHugh,Dick Foran,6,5.225
-John Ridgely,John Garfield,6,5.2167
 Ron Causey ,Amanda Wright,6,5.2167
-Samuel S. Hinds,Irving Bacon,6,5.2
 Weiron Holmberg,Per Grundén,6,5.1833
 Dick Elliott,Byron Foulger,6,5.18
-Tom Dugan,Frank McHugh,6,5.1333
-Barton MacLane,Henry O'Neill,6,5.1
 Leslie Easterbrook,David Graf,6,5.0667
 Leslie Easterbrook,George Gaynes,6,5.0667
 Michael Biehn,Jennifer Blanc,6,5.0667
@@ -3172,12 +3174,10 @@ Mike Nawrocki,Lisa Vischer,6,5.0
 James Dixon,Jill Gatsby,6,4.8667
 Jason Sklar,Randy Sklar,6,4.8667
 Johnny Lever,Bobby Deol,6,4.8167
-Joan Blondell,Frank McHugh,6,4.78
 Tim Thomerson,Art LaFleur,6,4.7333
 Frank Mills,Blackie Whiteford,6,4.65
 John Wayne,Bud Osborne,6,4.5667
 Andrey Merzlikin,Sergey Garmash,6,4.55
-Buster Keaton,Cliff Edwards,6,4.5
 Yuriy Kutsenko,Mikhail Efremov,6,4.4833
 Sunil Shetty,Sanjay Dutt,6,4.4167
 David Gorcey,William Benedict,6,4.3333
@@ -3717,6 +3717,7 @@ Nobuo Nakamura,Senkichi Ômura,5,7.16
 Roberto Meyer,Ignacio Peón,5,7.16
 Seiji Miyaguchi,Eijirô Tôno,5,7.16
 Bert Moorhouse,Florence Wix,5,7.15
+Iko Uwais,Yayan Ruhian,5,7.15
 Barbara Valentin,Irm Hermann,5,7.14
 Chuck Hamilton,Sam Harris,5,7.14
 Eddie 'Rochester' Anderson,Eddy Chandler,5,7.14
@@ -3950,6 +3951,7 @@ Toshirō Mifune,Hiroshi Tanaka,5,6.96
 Yutaka Sada,Rinsaku Ogata,5,6.96
 John Hoyt,Bess Flowers,5,6.95
 Leo White,Wedgwood Nowell,5,6.95
+Roy Bucko,Ralph Bucko,5,6.95
 Trevor Bardette,Harry Strang,5,6.95
 Agustín Almodóvar,Cecilia Roth,5,6.94
 Akira Emoto,Ken Mitsuishi,5,6.94
@@ -3974,6 +3976,7 @@ Takashi Shimura,Takeo Oikawa,5,6.94
 Yuen Biao,Fan Mei-Sheng,5,6.94
 Dick Wessel,Frank Sully,5,6.9333
 Frank Faylen,Milton Kibbee,5,6.9333
+Henry O'Neill,Allen Jenkins,5,6.9333
 Frank McLure,Sam Harris,5,6.925
 James Flavin,Eddy Chandler,5,6.925
 James Flavin,Max Wagner,5,6.925
@@ -4008,6 +4011,7 @@ Rupert Grint,Robert Hardy,5,6.92
 Samuel L. Jackson,Clark Gregg,5,6.92
 Shum Lo,Hao Li-Jen,5,6.92
 Stuart Holmes,Bess Flowers,5,6.92
+Leon Ames,Van Johnson,5,6.9
 Anne Consigny,Mathieu Amalric,5,6.9
 Bette Davis,Olivia de Havilland,5,6.9
 Brad Garrett,John Ratzenberger,5,6.9
@@ -4295,7 +4299,9 @@ Stanley Tucci,Toby Jones,5,6.74
 Vin Diesel,Sung Kang,5,6.74
 Yeung Chi-Hing,Ou-Yang Sha-Fei,5,6.74
 Yûsuke Kawazu,Fumio Watanabe,5,6.74
+George Zucco,Bess Flowers,5,6.725
 Irving Bacon,Lew Kelly,5,6.725
+James Flavin,Frank Faylen,5,6.725
 Jimmy Durante,June Allyson,5,6.725
 June Allyson,Gloria DeHaven,5,6.725
 Lena Horne,Gloria DeHaven,5,6.725
@@ -4456,6 +4462,7 @@ Tony Anselmo,Bill Farmer,5,6.64
 Bert Moorhouse,Jay Eaton,5,6.625
 Eddie Acuff,Addison Richards,5,6.625
 Frank Oz,Caroll Spinney,5,6.625
+Irving Bacon,Byron Foulger,5,6.625
 John Ridgely,Wilfred Lucas,5,6.625
 Mark Hamill,Jeff Bennett,5,6.625
 Charles C. Wilson,Pat Flaherty,5,6.62
@@ -4669,6 +4676,7 @@ Ann Doran,George Chandler,5,6.5
 Anthony Quayle,Sylvia Syms,5,6.5
 Charles Trowbridge,Selmer Jackson,5,6.5
 Christopher Guest,Eugene Levy,5,6.5
+Clarence Muse,Bess Flowers,5,6.5
 E.E. Clive,John Carradine,5,6.5
 Edward Keane,Eddie Dunn,5,6.5
 Emma Thompson,Phyllida Law,5,6.5
@@ -4687,6 +4695,7 @@ Jim Farley,Dick Rush,5,6.5
 John Harron,Al Lloyd,5,6.5
 John Litel,Vera Lewis,5,6.5
 Joseph Crehan,Edward Keane,5,6.5
+Joseph Crehan,Mary Treen,5,6.5
 Jun Tazaki,Yutaka Sada,5,6.5
 Keenan Wynn,Howard Keel,5,6.5
 Kelly Sheridan,Chantal Strand,5,6.5
@@ -4758,6 +4767,7 @@ Woody Allen,Louise Lasser,5,6.48
 Charles Sullivan,Ben Taggart,5,6.475
 Edward Hearn,Edgar Dearing,5,6.475
 Guy Kibbee,J. Carrol Naish,5,6.475
+Henry O'Neill,Charles C. Wilson,5,6.475
 Sidney Bracey,Jack Mower,5,6.475
 Vera Lewis,Tom Wilson,5,6.475
 Charles Winninger,Bess Flowers,5,6.4667
@@ -4790,6 +4800,7 @@ Ward Bond,Kit Guard,5,6.46
 Doris Day,Gordon MacRae,5,6.45
 John Ridgely,William Gould,5,6.45
 Keiji Sada,Toshiko Kobayashi,5,6.45
+Leon Ames,Bess Flowers,5,6.45
 Renée Adorée,John Gilbert,5,6.45
 Aleksandr Abdulov,Semyon Farada,5,6.44
 Andy Lau,Lam Suet,5,6.44
@@ -4905,6 +4916,7 @@ Fernando Rey,Franco Nero,5,6.4
 Frank Welker,John DiMaggio,5,6.4
 George Meeker,Bess Flowers,5,6.4
 John Qualen,Henry O'Neill,5,6.4
+John Ridgely,Moroni Olsen,5,6.4
 Jonah Hill,Martin Starr,5,6.4
 Kirk Douglas,Bess Flowers,5,6.4
 Kohl Sudduth,Gillian Anderson,5,6.4
@@ -4921,6 +4933,7 @@ Patrick Stewart,Michael Dorn,5,6.4
 Pierfrancesco Favino,Stefano Accorsi,5,6.4
 Ritchie Montgomery,Thomas Francis Murphy,5,6.4
 Robin Williams,Billy Crystal,5,6.4
+Roy Bucko,Hank Bell,5,6.4
 Selmer Jackson,Wedgwood Nowell,5,6.4
 Shah Rukh Khan,Deepika Padukone,5,6.4
 Simon Yam,Maggie Shiu,5,6.4
@@ -5117,6 +5130,7 @@ Peter Cushing,Michael Ripper,5,6.3
 Peter Lawford,Greer Garson,5,6.3
 Pierce Brosnan,Judi Dench,5,6.3
 Sidney Toler,Douglass Dumbrille,5,6.3
+Taavi Eelmaa,Juhan Ulfsak,5,6.3
 Vincent Price,Cedric Hardwicke,5,6.3
 Virginia Brissac,Spencer Charters,5,6.3
 William H. Macy,Philip Baker Hall,5,6.3
@@ -5152,6 +5166,7 @@ Edward Gargan,Bert Moorhouse,5,6.275
 Irving Bacon,Frank McHugh,5,6.275
 John Carradine,Louis Mason,5,6.275
 Larry Miller,Michael McKean,5,6.275
+Porter Hall,Irving Bacon,5,6.275
 Sara Haden,Cecilia Parker,5,6.275
 Trevor Bardette,Ralph Dunn,5,6.275
 Phil Silvers,Bess Flowers,5,6.2667
@@ -5368,6 +5383,7 @@ Miles Bakshi,Nina Zoe Bakshi,5,6.16
 Doris Lloyd,Leyland Hodgson,5,6.15
 Edward LeSaint,Edward Keane,5,6.15
 Howard C. Hickman,Milton Kibbee,5,6.15
+John Miljan,Anita Page,5,6.15
 Vera Lewis,John Harron,5,6.15
 Bam Margera,Chris Pontius,5,6.14
 Bam Margera,Manny Puig,5,6.14
@@ -5438,6 +5454,7 @@ Harry Strang,Edward Hearn,5,6.125
 Lee Phelps,Ethelreda Leopold,5,6.125
 Leonard Mudie,David Thursby,5,6.125
 Virginia Brissac,Milton Kibbee,5,6.125
+Walter Pidgeon,Edward Arnold,5,6.125
 Andy On,Philip Ng,5,6.12
 Bernard Lee,Roger Moore,5,6.12
 Billy Wayne,Bess Flowers,5,6.12
@@ -5849,6 +5866,7 @@ Sylvester Stallone,Dolph Lundgren,5,5.86
 Alan Hale,William Lundigan,5,5.85
 Klaus Kinski,Margaret Lee,5,5.85
 Russell Hicks,Arthur Aylesworth,5,5.85
+Russell Simpson,Hank Bell,5,5.85
 James Stewart,Edgar Dearing,5,5.84
 Yuen Wah,Yuen Qiu,5,5.84
 Anthony Quinn,Maureen O'Hara,5,5.84
@@ -6007,6 +6025,7 @@ Tony Leblanc,Cañita Brava,5,5.76
 Vera Lewis,Eddie Acuff,5,5.76
 William Tannen,Frank McLure,5,5.76
 Alma Kruger,Nat Pendleton,5,5.75
+Cliff Edwards,Joan Crawford,5,5.75
 Lionel Barrymore,Laraine Day,5,5.75
 Victor Kilian,Harry Strang,5,5.75
 Ward Bond,Olin Howland,5,5.75
@@ -6047,7 +6066,6 @@ Alan Ladd,William Bendix,5,5.72
 Bud Osborne,Edmund Cobb,5,5.72
 Bud Spencer,Enzo Cannavale,5,5.72
 Howard C. Hickman,Willard Robertson,5,5.72
-Iko Uwais,Yayan Ruhian,5,5.72
 Marc Lawrence,Hank Bell,5,5.72
 Paul Fix,Grant Withers,5,5.72
 Soichiro Hoshi,Hiroshi Kamiya,5,5.72
@@ -6146,6 +6164,7 @@ Henry O'Neill,Paul Panzer,5,5.6
 Hisaya Itô,Kôzô Nomura,5,5.6
 James Stephenson,Stuart Holmes,5,5.6
 John C. Reilly,Molly Shannon,5,5.6
+John Ridgely,Dane Clark,5,5.6
 Kevin James,Nick Swardson,5,5.6
 Peter Lorre,Bess Flowers,5,5.6
 Rick Collins,Dan Snow,5,5.6
@@ -6207,6 +6226,7 @@ Harold Huber,Edward Brophy,5,5.48
 Hisaya Itô,Katsumi Tezuka,5,5.48
 Kota Srinivasa Rao,Tanikella Bharani,5,5.48
 Lewis Stone,Jean Harlow,5,5.48
+Allen Jenkins,Mary Treen,5,5.475
 Edmund Mortimer,William Worthington,5,5.475
 Jim Farley,Hank Bell,5,5.475
 Guy Usher,Milton Kibbee,5,5.4667
@@ -6224,6 +6244,7 @@ Richard Conte,Frank Sinatra,5,5.44
 Rob Schneider,David Spade,5,5.44
 Anthony Caruso,Alan Ladd,5,5.425
 James Burke,Edward Gargan,5,5.425
+Lewis Stone,Jean Hersholt,5,5.425
 Nat Pendleton,George Chandler,5,5.425
 Adam Johnson,Jake Stormoen,5,5.42
 Adam Sandler,Kevin Grady,5,5.42
@@ -6251,8 +6272,6 @@ Rajpal Yadav,Isha Koppikar,5,5.4
 Russell Hicks,Charles Middleton,5,5.4
 Halliwell Hobbes,Billy Bevan,5,5.4
 Herman Bing,Jeanette MacDonald,5,5.4
-George Zucco,Bess Flowers,5,5.38
-James Flavin,Frank Faylen,5,5.38
 Jon Lovitz,Nick Swardson,5,5.38
 Rob Schneider,Jared Sandler,5,5.38
 Saif Ali Khan,Kareena Kapoor,5,5.38
@@ -6281,7 +6300,6 @@ Robert Gustafsson,Johan Rheborg,5,5.325
 Fortunio Bonanova,J. Carrol Naish,5,5.32
 Raymond Massey,Alan Hale,5,5.32
 Bud Osborne,Monte Montague,5,5.3
-Irving Bacon,Byron Foulger,5,5.3
 Jon Lovitz,Jared Sandler,5,5.3
 Tom Sizemore,Danny Trejo,5,5.3
 Dan Aykroyd,Donna Dixon,5,5.28
@@ -6289,6 +6307,7 @@ Emmett Vogan,Jack Mower,5,5.2667
 Jack Carson,Grady Sutton,5,5.26
 Leslie Easterbrook,Bubba Smith,5,5.26
 Russell Simpson,Charles Middleton,5,5.26
+Barton MacLane,Mary Treen,5,5.25
 Minor Watson,Arthur Aylesworth,5,5.25
 Clark Gable,Lee Phelps,5,5.24
 Jim Farley,Frank Mills,5,5.24
@@ -6299,20 +6318,14 @@ Errol Flynn,John Litel,5,5.22
 Gösta Ekman,Per Grundén,5,5.22
 Gösta Ekman,Ulf Brunnberg,5,5.22
 Selmer Jackson,Eddy Waller,5,5.22
-Clarence Muse,Bess Flowers,5,5.2
-Henry O'Neill,Allen Jenkins,5,5.2
 James Franco,Brian Lally,5,5.2
-Joseph Crehan,Mary Treen,5,5.2
-Henry O'Neill,Charles C. Wilson,5,5.18
 John Wayne,Glenn Strange,5,5.18
 Massimo Vanni,Ennio Girolami,5,5.18
 Olin Howland,Fern Emmett,5,5.18
-Leon Ames,Van Johnson,5,5.175
 Russell Simpson,Jack Mower,5,5.175
 May Robson,Jeffrey Lynn,5,5.1667
 Priscilla Lane,May Robson,5,5.1667
 Claire Du Brey,Eddy Waller,5,5.16
-Leon Ames,Bess Flowers,5,5.16
 Tim Meadows,David Spade,5,5.16
 Velizar Binev,Atanas Srebrev,5,5.16
 Michelle Bauer,Richard Gabai,5,5.15
@@ -6321,9 +6334,7 @@ John Hamilton,Addison Richards,5,5.14
 Dick Foran,Jeffrey Lynn,5,5.1333
 Amrish Puri,Kareena Kapoor,5,5.12
 J. Farrell MacDonald,Bess Flowers,5,5.12
-John Ridgely,Moroni Olsen,5,5.12
 Ron Causey ,Ralph A. Recchia ,5,5.12
-Roy Bucko,Hank Bell,5,5.12
 Charles Middleton,Lane Chandler,5,5.1
 John Carradine,Paul E. Burns,5,5.1
 Robert Homans,Pat O'Malley,5,5.08
@@ -6335,7 +6346,6 @@ Antonio Banderas,Alexa PenaVega,5,5.04
 Danny Trejo,Alexa PenaVega,5,5.04
 Marjatta Raita,Elli Castrén,5,5.04
 Simo Salminen,Elli Castrén,5,5.04
-Taavi Eelmaa,Juhan Ulfsak,5,5.04
 Tapio Hämäläinen,Elli Castrén,5,5.04
 Vesa-Matti Loiri,Elli Castrén,5,5.04
 Bud Osborne,Art Mix,5,5.0333
@@ -6344,7 +6354,6 @@ Gulshan Grover,Paresh Rawal,5,5.025
 Christopher Lloyd,Colleen Camp,5,5.02
 Jack Taylor,Jesús Franco,5,5.02
 Jesús Franco,Paul Müller,5,5.02
-Porter Hall,Irving Bacon,5,5.02
 Anthony Quinn,Kevin Sorbo,5,5.0
 Bruce Willis,Lydia Hull,5,5.0
 James Franco,Scott Haze,5,5.0
@@ -6360,13 +6369,13 @@ Stephanie Honoré,Lance E. Nichols,5,4.96
 Dick Powell,Ruby Keeler,5,4.94
 Noel Clarke,Davie Fairbanks,5,4.94
 Charles Trowbridge,Harry Tyler,5,4.925
+Gary Cooper,Roscoe Karns,5,4.925
 Morris Ankrum,Bess Flowers,5,4.925
 Wilfred Lucas,Hobart Cavanaugh,5,4.925
 Alexis Smith,S.Z. Sakall,5,4.92
 Bill Moseley,Kane Hodder,5,4.92
 Gordon Mitchell,Simonetta Vitelli,5,4.92
 Jean-Claude Van Damme,Bianca Bree,5,4.9
-Walter Pidgeon,Edward Arnold,5,4.9
 Charles Middleton,Bob Kortman,5,4.875
 Rajpal Yadav,Amitabh Bachchan,5,4.86
 Charles Middleton,Tom London,5,4.84
@@ -6383,31 +6392,22 @@ Polly Moran,William Haines,5,4.725
 Robert Emmet O'Connor,Bess Flowers,5,4.725
 Charles Middleton,Blackie Whiteford,5,4.72
 Yuriy Kutsenko,Ivan Urgant,5,4.72
-Russell Simpson,Hank Bell,5,4.68
+Edward Brophy,John Miljan,5,4.7
 Wes Studi,Adam Beach,5,4.65
 Moroni Olsen,Charles Middleton,5,4.64
-Roy Bucko,Ralph Bucko,5,4.6333
 Peter Lawford,"Sammy Davis, Jr.",5,4.625
-Cliff Edwards,Joan Crawford,5,4.6
 John Wayne,Jim Corey,5,4.6
-John Ridgely,Dane Clark,5,4.48
+Joan Crawford,Edward Brophy,5,4.5333
 Olin Howland,Milton Kibbee,5,4.4667
-Allen Jenkins,Mary Treen,5,4.38
-Lewis Stone,Jean Hersholt,5,4.34
 Reginald Owen,Alan Mowbray,5,4.3
 Yuriy Kutsenko,Vyacheslav Razbegaev,5,4.24
-Barton MacLane,Mary Treen,5,4.2
-John Miljan,Anita Page,5,4.1
 Mike Nawrocki,Tim Hodge,5,4.06
 Phil Vischer,Tim Hodge,5,4.06
 Brendan Fletcher,Michael Paré,5,4.02
-Gary Cooper,Roscoe Karns,5,3.94
 Earl Dwire,George 'Gabby' Hayes,5,3.9
 Heikki Kinnunen,Tom Pöysti,5,3.7
 Vesa Vierikko,Heikki Kinnunen,5,3.7
 Vesa Vierikko,Tom Pöysti,5,3.7
-Edward Brophy,John Miljan,5,3.525
-Joan Crawford,Edward Brophy,5,3.4
 Ralf Moeller,Michael Paré,5,3.38
 Adolfas Mekas,Jonas Mekas,4,8.9
 Maaya Sakamoto,Hiroshi Kamiya,4,8.675
@@ -6460,6 +6460,7 @@ Takeshi Katô,Sachio Sakai,4,7.975
 Takeshi Katô,Shin Ôtomo,4,7.975
 Toshirō Mifune,Shin Ôtomo,4,7.975
 Beulah Bondi,Grant Mitchell,4,7.9667
+Eugene Pallette,Larry Steers,4,7.9667
 Al Pacino,John Cazale,4,7.95
 Noriko Honma,Ikio Sawamura,4,7.95
 Toshirō Mifune,Masayuki Mori,4,7.95
@@ -7110,6 +7111,7 @@ Yoshifumi Tajima,Gen Shimizu,4,7.425
 Billy Dee Williams,James Earl Jones,4,7.4
 Dale Van Sickel,Scott Seaton,4,7.4
 Edward Keane,Mike Lally,4,7.4
+Frank McHugh,Louise Beavers,4,7.4
 Frank O'Connor,Frank McLure,4,7.4
 Frank O'Connor,Philip Morris,4,7.4
 George Raft,William B. Davidson,4,7.4
@@ -7376,6 +7378,7 @@ Harry Davenport,Eddie 'Rochester' Anderson,4,7.2667
 Jack Gardner,Wedgwood Nowell,4,7.2667
 Jimmy Durante,Kathryn Grayson,4,7.2667
 Joe King,Milton Kibbee,4,7.2667
+John George,Bess Flowers,4,7.2667
 Aamir Khan,Kulbhushan Kharbanda,4,7.25
 Al Bridge,Frank O'Connor,4,7.25
 Ann Miller,Jules Munshin,4,7.25
@@ -7650,6 +7653,7 @@ Frank O'Connor,Lloyd Ingraham,4,7.1667
 Jerome Cowan,Bess Flowers,4,7.1667
 Mark Ruffalo,Stan Lee,4,7.1667
 Michael Moore,George W. Bush,4,7.1667
+Moroni Olsen,Bess Flowers,4,7.1667
 Virginia Brissac,Paul E. Burns,4,7.1667
 Wilfred Lucas,Larry Steers,4,7.1667
 William Schallert,Bess Flowers,4,7.1667
@@ -7871,6 +7875,7 @@ Leslie Caron,Fred Astaire,4,7.1
 Lionel Atwill,Basil Rathbone,4,7.1
 Liu Chia-Liang,Ti Lung,4,7.1
 Mads Mikkelsen,Thomas Bo Larsen,4,7.1
+Myrna Loy,George Irving,4,7.1
 Noriko Sengoku,Masao Shimizu,4,7.1
 Oleg Tabakov,Vasili Lanovoy,4,7.1
 Pat O’Brien,Ann Sheridan,4,7.1
@@ -8253,6 +8258,7 @@ Robert Homans,Oscar 'Dutch' Hendrian,4,7.0
 Rolfe Sedan,Alphonse Martell,4,7.0
 Ron Perlman,Grey Griffin,4,7.0
 Rudolf Lenz,Adrian Hoven,4,7.0
+Samuel S. Hinds,Byron Foulger,4,7.0
 Sergey Bondarchuk,Sergei Yermilov,4,7.0
 Simon Pegg,Greg Grunberg,4,7.0
 Sol Gorss,Don Turner,4,7.0
@@ -8344,6 +8350,7 @@ Walter Miller,Harry Strang,4,6.975
 Ward Bond,Charles Sullivan,4,6.975
 Warren Oates,Ben Johnson,4,6.975
 Alec Craig,Landers Stevens,4,6.9667
+Clark Gable,Walter Pidgeon,4,6.9667
 Dennis O'Keefe,Edmund Mortimer,4,6.9667
 Edward Earle,Wade Boteler,4,6.9667
 Gino Corrado,Matt McHugh,4,6.9667
@@ -8416,6 +8423,7 @@ Stan Lee,Pat Kiernan,4,6.95
 Takeo Oikawa,Shin Ôtomo,4,6.95
 Timothy Spall,Imelda Staunton,4,6.95
 Tomás Milián,Ennio Antonelli,4,6.95
+Tsutomu Isobe,Megumi Hayashibara,4,6.95
 Ulrich Tukur,Susanne Lothar,4,6.95
 Walter Miller,John Dilson,4,6.95
 Ward Bond,Max Wagner,4,6.95
@@ -8445,7 +8453,6 @@ Oldřich Kaiser,Jiří Lábus,4,6.9333
 Sam De Grasse,Tom Wilson,4,6.9333
 Sol Gorss,Eddie Parker,4,6.9333
 Stan Lee,Tom Hiddleston,4,6.9333
-Tsutomu Isobe,Megumi Hayashibara,4,6.9333
 Carrie-Anne Moss,Hugo Weaving,4,6.925
 Carrie-Anne Moss,Laurence Fishburne,4,6.925
 Edward Fox,John Gielgud,4,6.925
@@ -8886,6 +8893,7 @@ Una O'Connor,Alan Hale,4,6.85
 Vera Lewis,Mike Lally,4,6.85
 Vipin Sharma,Nawazuddin Siddiqui,4,6.85
 Wheaton Chambers,Sam Harris,4,6.85
+Charles C. Wilson,Irving Bacon,4,6.8333
 Douglas Walton,Charles Irwin,4,6.8333
 Edmund Mortimer,Louis Mercier,4,6.8333
 Elizabeth Patterson,Milton Kibbee,4,6.8333
@@ -8895,6 +8903,7 @@ Glen Cavender,Wedgwood Nowell,4,6.8333
 Jack Wise,Lee Phelps,4,6.8333
 John Ridgely,Pat O'Malley,4,6.8333
 Peter Bogdanovich,Roger Corman,4,6.8333
+Vlad Ivanov,Tania Popa,4,6.8333
 Wade Boteler,Ralph Dunn,4,6.8333
 William Gould,Cliff Saum,4,6.8333
 William Gould,John J. Richardson,4,6.8333
@@ -9011,6 +9020,7 @@ Edgar Edwards,John Harron,4,6.8
 Ernie Sabella,Nathan Lane,4,6.8
 Forrester Harvey,Harry Cording,4,6.8
 Francis Ford,Frank McGrath,4,6.8
+Frank Ellis,Hank Bell,4,6.8
 Frank Mills,James Conaty,4,6.8
 Frank Morgan,June Allyson,4,6.8
 Gigi Reder,Jimmy il Fenomeno,4,6.8
@@ -9187,6 +9197,7 @@ Keiji Sada,Hideko Takamine,4,6.7667
 Leo White,Frank McHugh,4,6.7667
 Miles Mander,Joseph Schildkraut,4,6.7667
 Pierre Watkin,Christian Rub,4,6.7667
+Rebel Wilson,Ester Dean,4,6.7667
 Tom Wilson,Alma Rubens,4,6.7667
 Joe King,Frank Mayo,4,6.7667
 Joe King,Herbert Heywood,4,6.7667
@@ -9277,6 +9288,7 @@ Yoshio Kosugi,Kôji Uno,4,6.75
 Alan Hale,Ann Sheridan,4,6.7333
 Charley Grapewin,Harry Strang,4,6.7333
 Dennis Price,Ian Carmichael,4,6.7333
+Eleanor Parker,John Garfield,4,6.7333
 Franklin Pangborn,Paul Hurst,4,6.7333
 George Chandler,Harry Tyler,4,6.7333
 Joe Sawyer,Steve Pendleton,4,6.7333
@@ -9467,6 +9479,7 @@ Norma Varden,Richard Haydn,4,6.7
 Olivier Gourmet,Jérémie Renier,4,6.7
 Pat Flaherty,Pat O'Malley,4,6.7
 Paul Bettany,Jon Favreau,4,6.7
+Peter Cushing,Miles Malleson,4,6.7
 Robert Emmet O'Connor,Henry O'Neill,4,6.7
 Robert Homans,Frank O'Connor,4,6.7
 Robert Middlemass,Frank Jaquet,4,6.7
@@ -9594,6 +9607,7 @@ William Hopper,Donald Crisp,4,6.675
 Woody Allen,David Ogden Stiers,4,6.675
 Yeung Chi-Hing,Wang Han-Chen,4,6.675
 Yuen Biao,Ka Lee,4,6.675
+Alex Ivanovici,Arthur Holden,4,6.6667
 Bill Nunn,Joie Lee,4,6.6667
 Charles Lane,Christian Rub,4,6.6667
 Danny Glover,David Strathairn,4,6.6667
@@ -9607,7 +9621,9 @@ Glenda Farrell,Milton Kibbee,4,6.6667
 Grant Mitchell,Harry C. Bradley,4,6.6667
 Henry O'Neill,Rags Ragland,4,6.6667
 John Gielgud,Ralph Richardson,4,6.6667
+Keenan Wynn,Leon Ames,4,6.6667
 Lam Suet,Ruby Wong,4,6.6667
+Peter Arne,David Lodge,4,6.6667
 Richard Long,Meg Randall,4,6.6667
 Shemp Howard,Laverne Andrews,4,6.6667
 Shemp Howard,Maxene Andrews,4,6.6667
@@ -9711,6 +9727,7 @@ Aamir Khan,Tiku Talsania,4,6.65
 Eric Tsang,Lam Ching-Ying,4,6.65
 Mark Strong,Ciarán Hinds,4,6.65
 William Haade,Jack Pennick,4,6.65
+Anna Kendrick,Rebel Wilson,4,6.6333
 Anupam Kher,Naseeruddin Shah,4,6.6333
 Arthur Hoyt,Irving Bacon,4,6.6333
 Bibi Andersson,Eva Dahlbeck,4,6.6333
@@ -9721,6 +9738,8 @@ Chuck Hamilton,Charles McMurphy,4,6.6333
 Chuck Hamilton,Heinie Conklin,4,6.6333
 Chuck Hamilton,Ralph Dunn,4,6.6333
 Edmund Gwenn,Bess Flowers,4,6.6333
+Elizabeth Banks,Anna Kendrick,4,6.6333
+Elizabeth Banks,Rebel Wilson,4,6.6333
 Frank Orth,Byron Foulger,4,6.6333
 George Sanders,Sam Harris,4,6.6333
 Glenda Farrell,Frank McHugh,4,6.6333
@@ -10078,10 +10097,12 @@ Dora Clement,Minerva Urecal,4,6.5667
 Edmund Mortimer,Maurice Costello,4,6.5667
 Emmett Vogan,Joseph Crehan,4,6.5667
 Gino Corrado,Jack Chefe,4,6.5667
+Grant Mitchell,Nat Pendleton,4,6.5667
 Harry Tyler,Edgar Dearing,4,6.5667
 Howard C. Hickman,Pat Flaherty,4,6.5667
 John J. Richardson,George Guhl,4,6.5667
 John Qualen,Erville Alderson,4,6.5667
+Roscoe Karns,Bess Flowers,4,6.5667
 Samuel L. Jackson,Ossie Davis,4,6.5667
 DeForest Kelley,Mark Lenard,4,6.55
 George Takei,Mark Lenard,4,6.55
@@ -10350,6 +10371,7 @@ Charles Middleton,Walter Miller,4,6.5
 Charles Sullivan,Raymond Brown,4,6.5
 Christopher Lee,Helena Bonham Carter,4,6.5
 Chuck Hamilton,Dick Rush,4,6.5
+Clara Blandick,Clarence Muse,4,6.5
 Claude Rains,Leyland Hodgson,4,6.5
 Claude Rains,Paul Panzer,4,6.5
 Dan White,Jack Tornek,4,6.5
@@ -10389,6 +10411,7 @@ Hsiao Ho,Gam Tin-Chue,4,6.5
 Ian Wolfe,Halliwell Hobbes,4,6.5
 Irving Bacon,Addison Richards,4,6.5
 Isabelle Adjani,Jean-Claude Brialy,4,6.5
+James Flavin,Edward Peil Sr.,4,6.5
 James Gunn,Sean Gunn,4,6.5
 James Tien,Paul Chang Chung,4,6.5
 Jeanne Moreau,Alain Delon,4,6.5
@@ -10624,6 +10647,7 @@ Charlton Heston,John Dierkes,4,6.45
 Chester Clute,Milton Kibbee,4,6.45
 Chris Wedge,Karen Disher,4,6.45
 Christopher Guest,Michael Hitchcock,4,6.45
+Claude Chabrol,Stéphane Audran,4,6.45
 Clem Bevans,Nat Carr,4,6.45
 Dewey Robinson,Bert Moorhouse,4,6.45
 Don Brodie,James Conaty,4,6.45
@@ -10925,6 +10949,7 @@ Liu Chia-Liang,Wilson Tong,4,6.4
 Lupe Carriles,Salvador Godínez,4,6.4
 Margaret Rutherford,Dennis Price,4,6.4
 Mario Donatone,Leo Gavero,4,6.4
+Marjorie Main,Virginia Weidler,4,6.4
 Michelle Yeoh,Jackie Chan,4,6.4
 Nigel Bruce,Leonard Carey,4,6.4
 Richard Ng,Billy Lau,4,6.4
@@ -10965,7 +10990,9 @@ John Wayne,Walter Brennan,4,6.4
 Larry Keating,Bess Flowers,4,6.4
 Luciano Catenacci,Salvatore Borghese,4,6.4
 Monte Blue,Emory Parnell,4,6.4
+Myrna Loy,Marjorie Main,4,6.4
 Robert Middlemass,Byron Foulger,4,6.4
+Robert Montgomery,Joan Crawford,4,6.4
 Shintarô Katsu,Mikiko Tsubouchi,4,6.4
 Takeshi Kitano,Yūrei Yanagi,4,6.4
 Victor Potel,Jack Norton,4,6.4
@@ -11062,6 +11089,7 @@ Wilson Tong,Johnny Wang Lung-Wei,4,6.375
 Ben Affleck,Harley Quinn Smith,4,6.3667
 Ben Affleck,Jennifer Schwalbach Smith,4,6.3667
 Bess Flowers,Tom Quinn,4,6.3667
+Bob Dylan,Johnny Cash,4,6.3667
 Chuck Hamilton,Selmer Jackson,4,6.3667
 Douglas Wood,Selmer Jackson,4,6.3667
 Frank Faylen,Bing Crosby,4,6.3667
@@ -11196,6 +11224,7 @@ Richard Bond,Cliff Saum,4,6.3333
 Richard Bond,Jack Mower,4,6.3333
 Richard Bond,Nat Carr,4,6.3333
 Rosalba Neri,Nello Pazzafini,4,6.3333
+Søren Pilmark,Jakob Oftebro,4,6.3333
 Yoshiko Kuga,Keiji Sada,4,6.3333
 Abhishek Bachchan,John Abraham,4,6.325
 Akim Tamiroff,Davison Clark,4,6.325
@@ -11327,6 +11356,7 @@ Bonnie Hunt,Paul Dooley,4,6.3
 Brendan Gleeson,Liam Cunningham,4,6.3
 Bruce Cabot,Patrick Wayne,4,6.3
 Bruce Willis,Michael Clarke Duncan,4,6.3
+Charles C. Wilson,Olin Howland,4,6.3
 Charles Irwin,Crauford Kent,4,6.3
 Cheech Marin,Larry the Cable Guy,4,6.3
 Cheech Marin,Michael Wallis,4,6.3
@@ -11531,11 +11561,15 @@ H.B. Warner,George 'Gabby' Hayes,4,6.2667
 Hooper Atchley,Edward Hearn,4,6.2667
 Howard C. Hickman,Frank Mayo,4,6.2667
 Jane Darwell,Guy Kibbee,4,6.2667
+Lana Turner,Edward Arnold,4,6.2667
 Leo White,Harold Miller,4,6.2667
 Matt McHugh,Bess Flowers,4,6.2667
+Ned Sparks,Tom Kennedy,4,6.2667
+Olin Howland,Warren William,4,6.2667
 Reginald Denny,John Sutton,4,6.2667
 Roland Young,Bess Flowers,4,6.2667
 Thurston Hall,Claire Du Brey,4,6.2667
+Walter Pidgeon,Bess Flowers,4,6.2667
 Cyril Ring,Dick Rush,4,6.2667
 Akio Kusama,Akira Yamada,4,6.25
 Akio Kusama,Hideo Shibuya,4,6.25
@@ -12300,6 +12334,7 @@ Koji Yakusho,Jun Fubuki,4,6.15
 Bob Hoskins,Michael Caine,4,6.1333
 Frank Reicher,Irving Bacon,4,6.1333
 Joe Sawyer,Charles Trowbridge,4,6.1333
+Lana Turner,Bess Flowers,4,6.1333
 Mako,Cary-Hiroyuki Tagawa,4,6.1333
 Peter Lawford,Bess Flowers,4,6.1333
 Pierre Watkin,Cyril Ring,4,6.1333
@@ -12637,6 +12672,7 @@ Kevin Dunn,Josh Duhamel,4,6.075
 William Forrest,Harry Strang,4,6.075
 Brian O'Halloran,Jennifer Schwalbach Smith,4,6.0667
 Akim Tamiroff,Sam Ash,4,6.0667
+Allen Jenkins,Lyle Talbot,4,6.0667
 C. Aubrey Smith,Ethel Griffies,4,6.0667
 Frank Mills,Brooks Benedict,4,6.0667
 Henry O'Neill,Tom Wilson,4,6.0667
@@ -12694,6 +12730,7 @@ Ikio Sawamura,Kôji Uno,4,6.05
 Jack Nicholson,Bruce Dern,4,6.05
 Jack Pennick,Ethan Laidlaw,4,6.05
 Jeff Bridges,Ed Lauter,4,6.05
+Joan Crawford,Anita Page,4,6.05
 Joan Crawford,George K. Arthur,4,6.05
 Joe Lo Truglio,Keegan-Michael Key,4,6.05
 John Carradine,Fredric March,4,6.05
@@ -12737,6 +12774,7 @@ Gary Cooper,Porter Hall,4,6.0333
 Howard C. Hickman,Norman Willis,4,6.0333
 Jack Wise,Herbert Heywood,4,6.0333
 Jackie Chan,Tung Lam,4,6.0333
+Pete Seeger,Johnny Cash,4,6.0333
 Samuel S. Hinds,Jean Parker,4,6.0333
 Sarah Silverman,Gilbert Gottfried,4,6.0333
 Virginia Brissac,Jack Mower,4,6.0333
@@ -12896,6 +12934,7 @@ Kelly Sheridan,Venus Terzo,4,6.0
 Kumi Mizuno,Shôichi Hirose,4,6.0
 Kumi Mizuno,Tadashi Okabe,4,6.0
 Lawrence Grant,Lewis Stone,4,6.0
+Leon Ames,Rosemary DeCamp,4,6.0
 Leonor Silveira,Isabel Ruth,4,6.0
 Lo Lieh,Lee Sau-Kei,4,6.0
 Lo Lieh,Shih Szu,4,6.0
@@ -12904,6 +12943,7 @@ Mark Forest,José Greci,4,6.0
 Mickey Rooney,Wade Boteler,4,6.0
 Mitchell Lewis,Barbara Bedford,4,6.0
 Montagu Love,John George,4,6.0
+Myrna Loy,John Miljan,4,6.0
 Nat Pendleton,Horace McMahon,4,6.0
 Nell Craig,Horace McMahon,4,6.0
 Patrick Warburton,Seth MacFarlane,4,6.0
@@ -12966,7 +13006,6 @@ Eric Pierpoint,Michele Scarabelli,4,5.975
 Eric Pierpoint,Sean Six,4,5.975
 Eric Tsang,Stanley Fung,4,5.975
 Ethan Laidlaw,Tex Cooper,4,5.975
-Eugene Pallette,Larry Steers,4,5.975
 Frank Orth,Harry Strang,4,5.975
 Fred Willard,Paul Rudd,4,5.975
 Frederick Giermann,Hans Schumm,4,5.975
@@ -13022,6 +13061,7 @@ Walter Sande,Pat Flaherty,4,5.975
 William Tannen,Hal Le Sueur,4,5.975
 Alan Hale,Faye Emerson,4,5.9667
 Charles Halton,Harlan Briggs,4,5.9667
+Eleanor Parker,Dane Clark,4,5.9667
 Harry Cording,Stuart Holmes,4,5.9667
 John Harron,Reid Kilpatrick,4,5.9667
 Lionel Barrymore,Spring Byington,4,5.9667
@@ -13087,6 +13127,7 @@ Chuck Hamilton,Bob Kortman,4,5.9333
 Clarence Kolb,Bess Flowers,4,5.9333
 Edward Keane,Sidney D'Albrook,4,5.9333
 James Robertson Justice,Donald Sinden,4,5.9333
+John Carradine,Don Ameche,4,5.9333
 Paul Newman,Bess Flowers,4,5.9333
 Peter Lawford,Jimmy Durante,4,5.9333
 Richard Widmark,Jean Peters,4,5.9333
@@ -13463,6 +13504,7 @@ Walter Kingsford,Henry Stephenson,4,5.85
 Whoopi Goldberg,Tim Curry,4,5.85
 Alan Hale,Barbara Stanwyck,4,5.8333
 Denis Leary,Wanda Sykes,4,5.8333
+Frank Hagney,Hank Bell,4,5.8333
 Frank Morgan,Bert Moorhouse,4,5.8333
 Jane Darwell,Paul E. Burns,4,5.8333
 John Harron,Rosella Towne,4,5.8333
@@ -13690,6 +13732,7 @@ Clarence Muse,Milton Kibbee,4,5.7667
 Jane Darwell,Henry O'Neill,4,5.7667
 Keenan Wynn,James Whitmore,4,5.7667
 Lane Chandler,Erville Alderson,4,5.7667
+Lew Ayres,Bess Flowers,4,5.7667
 William Gould,Milton Kibbee,4,5.7667
 Akihiko Hirata,Fuyuki Murakami,4,5.75
 Aldo Ralli,Olimpia Di Nardo,4,5.75
@@ -13928,6 +13971,7 @@ Vince Vaughn,Jason Bateman,4,5.675
 Harry Tenbrook,Blackie Whiteford,4,5.6667
 James Burke,Stanley Andrews,4,5.6667
 Kirsti Wallasvaara,Jukka Sipilä,4,5.6667
+Robert Young,Jimmy Durante,4,5.6667
 Tom London,Ethan Laidlaw,4,5.6667
 Ward Bond,Emmett Vogan,4,5.6667
 Adam Sandler,Colin Quinn,4,5.65
@@ -13985,9 +14029,11 @@ James Flavin,Lon Chaney Jr.,4,5.65
 Peter Butterworth,Kenneth Connor,4,5.65
 Ward Bond,Eddy Waller,4,5.65
 Agnes Moorehead,Bess Flowers,4,5.6333
+Allen Jenkins,Charles C. Wilson,4,5.6333
 Dick Powell,Hobart Cavanaugh,4,5.6333
 Frank Mills,Tom Quinn,4,5.6333
 Henry O'Neill,Ray Teal,4,5.6333
+Joan Crawford,John Miljan,4,5.6333
 Karl Dane,Anita Page,4,5.6333
 Ward Bond,Payne B. Johnson,4,5.6333
 William Demarest,Harry Tyler,4,5.6333
@@ -14055,6 +14101,7 @@ A. Michael Baldwin,Bill Thornbury,4,5.6
 Akihiko Hirata,Yasuhiro Shigenobu,4,5.6
 Alan Napier,Donald Crisp,4,5.6
 Andy Lau,Deng Chao,4,5.6
+Barton MacLane,Olin Howland,4,5.6
 Bill Thornbury,Angus Scrimm,4,5.6
 Bill Thornbury,Reggie Bannister,4,5.6
 Dane Rhodes,James DuMont,4,5.6
@@ -14081,6 +14128,7 @@ Paul Fix,Kenne Duncan,4,5.6
 Randolph Scott,John Wayne,4,5.6
 Robert Harron,Dorothy Gish,4,5.6
 Rosario Dawson,Tracie Thoms,4,5.6
+Russell Simpson,Roy Bucko,4,5.6
 Shôichi Hirose,Yasuhiro Shigenobu,4,5.6
 Simon Callow,Harriet Walter,4,5.6
 Spencer Charters,Wade Boteler,4,5.6
@@ -14252,6 +14300,7 @@ Kristen Wiig,Brian Petsos,4,5.5
 Lane Chandler,Ray Teal,4,5.5
 Lew Ayres,William Tannen,4,5.5
 Lionel Jeffries,Victor Maddern,4,5.5
+Lyle Talbot,Mary Treen,4,5.5
 Nicola Posener,Melanie Stone,4,5.5
 Rachel Dratch,Chris Parnell,4,5.5
 Robert Barrat,Monte Blue,4,5.5
@@ -14322,7 +14371,6 @@ Errol Flynn,Jack Mower,4,5.45
 Errol Flynn,Spencer Charters,4,5.45
 Frank Faylen,Cyril Ring,4,5.45
 James Franco,Mila Kunis,4,5.45
-John George,Bess Flowers,4,5.45
 John Litel,Spencer Charters,4,5.45
 Kane Kosugi,Sho Kosugi,4,5.45
 Lorna Gray,Byron Foulger,4,5.45
@@ -14337,6 +14385,7 @@ Spede Pasanen,Marita Nordberg,4,5.45
 Gil Bellows,Carla Gugino,4,5.45
 Joe Swanberg,Lane Hughes,4,5.45
 Richard Widmark,Bert Freed,4,5.45
+Wallace Ford,John Miljan,4,5.45
 Frank Faylen,Jack Wise,4,5.4333
 Glenn Strange,Bud Osborne,4,5.4333
 Holmes Herbert,David Thursby,4,5.4333
@@ -14420,7 +14469,6 @@ Kenneth Welsh,Matt Frewer,4,5.375
 Kevin James,Bas Rutten,4,5.375
 Kota Srinivasa Rao,Ajay,4,5.375
 Lionel Barrymore,Joan Crawford,4,5.375
-Moroni Olsen,Bess Flowers,4,5.375
 Paresh Rawal,Annu Kapoor,4,5.375
 Richard Cramer,Ed Brady,4,5.375
 Rob Corddry,Craig Robinson,4,5.375
@@ -14485,6 +14533,7 @@ Asami,Kentarô Shimazu,4,5.3
 Björn Granath,Birgitta Andersson,4,5.3
 Bud Osborne,Frank McCarroll,4,5.3
 Bud Osborne,Gene Alsace,4,5.3
+Buster Keaton,Edward Brophy,4,5.3
 Frank Faylen,Addison Richards,4,5.3
 Frank McHugh,Wendell Niles,4,5.3
 Frank Morgan,Jeanette MacDonald,4,5.3
@@ -14542,13 +14591,13 @@ Osman Yusuf,Wataru Ômae,4,5.25
 Rajpal Yadav,Arbaaz Khan,4,5.25
 Regis Toomey,Edward Keane,4,5.25
 Rodman Flender,Rick Dean,4,5.25
-Samuel S. Hinds,Byron Foulger,4,5.25
 Stanley Blystone,Lee Phelps,4,5.25
 Susumu Kurobe,Osman Yusuf,4,5.25
 Tim Holmes,Amanda Wright,4,5.25
 Tracy Morgan,Keith David,4,5.25
 Walter Slezak,Maureen O'Hara,4,5.25
 Akihiko Hirata,Susumu Kurobe,4,5.2333
+C. Aubrey Smith,Lewis Stone,4,5.2333
 Cy Kendall,Clinton Rosemond,4,5.2333
 Esa Pakarinen,Masa Niemi,4,5.2333
 Esa Pakarinen,Siiri Angerkoski,4,5.2333
@@ -14562,7 +14611,6 @@ Arshad Warsi,Tusshar Kapoor,4,5.225
 Betty Blythe,Bess Flowers,4,5.225
 Bud Geary,Hector V. Sarno,4,5.225
 Cheech Marin,Carla Gugino,4,5.225
-Clark Gable,Walter Pidgeon,4,5.225
 David Chiang,Teresa Ha Ping,4,5.225
 Fabio De Luigi,Luciana Littizzetto,4,5.225
 Harry Tyler,Bess Flowers,4,5.225
@@ -14602,6 +14650,7 @@ Jimi Hendrix,Billy Cox,4,5.2
 Knut Agnred,Kerstin Granlund,4,5.2
 Lydia Hull,Christopher Rob Bowen,4,5.2
 Mike Nawrocki,Jim Poole,4,5.2
+Nana Bryant,Bess Flowers,4,5.2
 Per Fritzell,Jan Rippe,4,5.2
 Per Fritzell,Kerstin Granlund,4,5.2
 Per Fritzell,Knut Agnred,4,5.2
@@ -14649,7 +14698,6 @@ John Carradine,Linda Darnell,4,5.1333
 Selmer Jackson,Bob Kortman,4,5.1333
 Artur Smolyaninov,Artyom Mikhalkov,4,5.125
 Ben Johnson,Paul Fix,4,5.125
-Charles C. Wilson,Irving Bacon,4,5.125
 George Sanders,Charles Trowbridge,4,5.125
 Harry Cording,Ellis Irving,4,5.125
 Harry Stubbs,Harry Cording,4,5.125
@@ -14663,7 +14711,6 @@ Marita Nordberg,Simo Salminen,4,5.125
 Natalya Gundareva,Evgeniy Evstigneev,4,5.125
 Nicholas Turturro,Jackie Sandler,4,5.125
 Telly Savalas,Paul Picerni,4,5.125
-Vlad Ivanov,Tania Popa,4,5.125
 Allen Jenkins,Hugh Herbert,4,5.1
 Benito Pacifico,Simonetta Vitelli,4,5.1
 Hiroshi Hayashi,Utako Mitsuya,4,5.1
@@ -14673,7 +14720,6 @@ Chloë Sevigny,Natasha Lyonne,4,5.1
 Christian De Sica,Massimo Boldi,4,5.1
 Claudio Bisio,Angela Finocchiaro,4,5.1
 Dalip Tahil,Alok Nath,4,5.1
-Frank Ellis,Hank Bell,4,5.1
 Henry O'Neill,Cy Kendall,4,5.1
 Jean-Claude Van Damme,Peter Malota,4,5.1
 John Wayne,Stanley Blystone,4,5.1
@@ -14693,15 +14739,14 @@ Harry Davenport,Morris Ankrum,4,5.075
 Hugh Sothern,Herbert Heywood,4,5.075
 Lane Chandler,Henry Hall,4,5.075
 Olin Howland,Frank O'Connor,4,5.075
-Rebel Wilson,Ester Dean,4,5.075
 Reginald Gardiner,Betty Grable,4,5.075
 Sammo Hung,Timmy Hung,4,5.075
 Ward Bond,Blackie Whiteford,4,5.075
 William Schallert,Dick Miller,4,5.075
 Barbara Billingsley,Bess Flowers,4,5.0667
+Barton MacLane,Allen Jenkins,4,5.0667
 C. Aubrey Smith,Doris Lloyd,4,5.0667
 Charles Middleton,Reed Howes,4,5.05
-Eleanor Parker,John Garfield,4,5.05
 Fred Willard,Richard Kind,4,5.05
 Guinn Williams,Edward Hearn,4,5.05
 Khadijah Haqq,Malika Haqq,4,5.05
@@ -14717,20 +14762,16 @@ Dan Aykroyd,Chevy Chase,4,5.025
 Eugene Levy,Joe Flaherty,4,5.025
 Frank Mills,Jack Mower,4,5.025
 Frank Wilcox,Frank Mills,4,5.025
-Peter Cushing,Miles Malleson,4,5.025
 Spencer Charters,Frank Wilcox,4,5.025
-Alex Ivanovici,Arthur Holden,4,5.0
 Andrey Merzlikin,Maksim Sukhanov,4,5.0
 Frank Faylen,Emory Parnell,4,5.0
 Frank Hagney,Ed Brady,4,5.0
 Herman Bing,Nelson Eddy,4,5.0
 Hobart Cavanaugh,Paul Panzer,4,5.0
-Keenan Wynn,Leon Ames,4,5.0
 Lawrence Grant,Holmes Herbert,4,5.0
 Massimo Vanni,Ottaviano Dell'Acqua,4,5.0
 Mimmo Palmara,Rosalba Neri,4,5.0
 Mitchell Lewis,Emory Parnell,4,5.0
-Peter Arne,David Lodge,4,5.0
 Russell Hicks,Blackie Whiteford,4,5.0
 Sidney Toler,Willard Robertson,4,5.0
 Thomas Jane,Johnathon Schaech,4,5.0
@@ -14738,14 +14779,11 @@ Ty Panitz,Tim Conway,4,5.0
 Val Kilmer,Joanne Whalley,4,5.0
 Frank Wilcox,Trevor Bardette,4,4.975
 Alexa PenaVega,Daryl Sabara,4,4.975
-Anna Kendrick,Rebel Wilson,4,4.975
 Antonio Banderas,Daryl Sabara,4,4.975
 Beulah Bondi,Guy Kibbee,4,4.975
 Bob Kortman,Blackie Whiteford,4,4.975
 Charles Ruggles,Mary Boland,4,4.975
 Danielle Ryan Chuchran,Caitlin E.J. Meyer,4,4.975
-Elizabeth Banks,Anna Kendrick,4,4.975
-Elizabeth Banks,Rebel Wilson,4,4.975
 Henry O'Neill,Ernest Whitman,4,4.975
 John Ridgely,Bruce Bennett,4,4.975
 Laurene Landon,Jill Gatsby,4,4.975
@@ -14771,12 +14809,10 @@ Stanley Blystone,Robert McKenzie,4,4.95
 Thomas Mitchell,John Qualen,4,4.95
 Mitchell Lewis,Harry Strang,4,4.9333
 Clarence Muse,Theresa Harris,4,4.925
-Grant Mitchell,Nat Pendleton,4,4.925
 Osiride Pevarello,Franco Branciaroli,4,4.925
 Pat O’Brien,Guinn Williams,4,4.925
 Paul E. Burns,Eddy Waller,4,4.925
 Roger Corman,Dick Miller,4,4.925
-Roscoe Karns,Bess Flowers,4,4.925
 Rutger Hauer,Mark Dacascos,4,4.925
 Terrence Mann,Don Keith Opper,4,4.925
 Ving Rhames,Luke Goss,4,4.925
@@ -14799,11 +14835,9 @@ Mitchell Lewis,Clem Bevans,4,4.9
 Spencer Charters,Frank Mayo,4,4.9
 Zachary Scott,Bess Flowers,4,4.9
 Charles Middleton,Frank Shannon,4,4.875
-Clara Blandick,Clarence Muse,4,4.875
 Dan Ekborg,Björn Gustafson,4,4.875
 Dan Ekborg,Per Grundén,4,4.875
 Dan Ekborg,Ulf Brunnberg,4,4.875
-James Flavin,Edward Peil Sr.,4,4.875
 Russell Simpson,Jim Farley,4,4.875
 Svetlana Khodchenkova,Vladimir Zelenskiy,4,4.875
 Elisha Cook Jr.,Charles McGraw,4,4.8667
@@ -14823,17 +14857,15 @@ Trevor Bardette,Paul Everton,4,4.8333
 Arjun Rampal,Sanjay Dutt,4,4.825
 Frank Mills,Harry Tyler,4,4.825
 Patrick Lyster,Adrienne Pierce,4,4.825
+Frank McHugh,Mary Treen,4,4.8
 George Eastman,Ottaviano Dell'Acqua,4,4.8
 John Wayne,Paul Hurst,4,4.8
-Myrna Loy,Marjorie Main,4,4.8
 Rajpal Yadav,Urmila Matondkar,4,4.8
 Randolph Scott,Barton MacLane,4,4.8
-Robert Montgomery,Joan Crawford,4,4.8
 Seymour Cassel,Jennifer Tilly,4,4.8
 Sissy Spacek,Sam Shepard,4,4.8
 Victor Kilian,Blackie Whiteford,4,4.8
 William Farnum,Pedro de Cordoba,4,4.8
-Bob Dylan,Johnny Cash,4,4.775
 Debbie Rochon,Trent Haaga,4,4.775
 Joan Blondell,Ruby Keeler,4,4.775
 Josh Flitter,Diedrich Bader,4,4.775
@@ -14875,14 +14907,12 @@ Rosemary Lane,Frank McHugh,4,4.75
 Rosemary Lane,Gale Page,4,4.75
 Rosemary Lane,Jeffrey Lynn,4,4.75
 Rosemary Lane,Lola Lane,4,4.75
-Søren Pilmark,Jakob Oftebro,4,4.75
 Tsai Chin,Howard Marion-Crawford,4,4.75
 Michael Nyqvist,Ralph Carlsson,4,4.7333
-Myrna Loy,George Irving,4,4.7333
+Tom Kennedy,Bess Flowers,4,4.7333
 Brinke Stevens,Michelle Bauer,4,4.725
 Aaron Norris,Chuck Norris,4,4.725
 Bruce Penhall,Dona Speir,4,4.725
-Charles C. Wilson,Olin Howland,4,4.725
 Clem Bevans,Jack Baxley,4,4.725
 Dona Speir,Rodrigo Obregón,4,4.725
 Gino Corrado,Vince Barnett,4,4.725
@@ -14891,11 +14921,9 @@ Yuriy Kutsenko,Aleksandr Oleshko,4,4.725
 Frank Mills,Selmer Jackson,4,4.7
 Jean Dujardin,Bruno Salomone,4,4.7
 Kareena Kapoor,Vrajesh Hirjee,4,4.7
-Lana Turner,Edward Arnold,4,4.7
-Ned Sparks,Tom Kennedy,4,4.7
-Olin Howland,Warren William,4,4.7
 Sol Gorss,John Harron,4,4.7
-Walter Pidgeon,Bess Flowers,4,4.7
+Gwen Lee,Polly Moran,4,4.7
+Louise Beavers,Oscar Apfel,4,4.7
 Danny Trejo,Jason Mewes,4,4.675
 Edward Brophy,Harry Tyler,4,4.675
 Nello Pazzafini,Tullio Altamura,4,4.6667
@@ -14910,19 +14938,17 @@ Harold Goodwin,Robert Homans,4,4.625
 Kareena Kapoor,Tusshar Kapoor,4,4.625
 Ville Haapasalo,Svetlana Khodchenkova,4,4.625
 Vladimir Basov,Nikolay Grinko,4,4.625
+Ann Dvorak,Cliff Edwards,4,4.6
 Brian Donlevy,Tom London,4,4.6
 Kareena Kapoor,Sanjay Mishra,4,4.6
-Lana Turner,Bess Flowers,4,4.6
 Monique Gabrielle,Ace Mask,4,4.6
 C. Aubrey Smith,Loretta Young,4,4.575
 Esther Dale,Harry Depp,4,4.575
 Karen Morley,Jean Hersholt,4,4.5667
-Allen Jenkins,Lyle Talbot,4,4.55
 Arthur Aylesworth,Blackie Whiteford,4,4.55
 Jim Farley,Wilfred Lucas,4,4.55
 Kirk Cameron,Chelsea Noble,4,4.55
 Vera Lewis,Rosemary Lane,4,4.55
-Pete Seeger,Johnny Cash,4,4.525
 Billy Gilbert,Bess Flowers,4,4.5
 Lenny Juliano,Ace Mask,4,4.5
 Pekka Huotari,Pertti Koivula,4,4.5
@@ -14932,7 +14958,6 @@ Charles Middleton,Frank Mills,4,4.475
 Ann Doran,Paul Kelly,4,4.475
 Christopher Lee,Jesús Franco,4,4.475
 Dona Speir,Cynthia Brimhall,4,4.475
-Eleanor Parker,Dane Clark,4,4.475
 Felissa Rose,Jonathan Tiersten,4,4.475
 Sergey Garmash,Sergei Makovetsky,4,4.475
 Stanley Andrews,William Haade,4,4.475
@@ -14940,14 +14965,13 @@ Billy Gilbert,George Barbier,4,4.4667
 Henry O'Neill,Grant Withers,4,4.4667
 James Franco,Val Lauren,4,4.45
 Jim Farley,Olin Howland,4,4.45
-John Carradine,Don Ameche,4,4.45
 Michael Paré,Steffen Mennekes,4,4.45
 Sunil Shetty,Neha Dhupia,4,4.45
+Ann Dvorak,Gwen Lee,4,4.45
 Angus Scrimm,Lenny Juliano,4,4.425
 Lance E. Nichols,Judd Lormand,4,4.425
 Lenny Juliano,Toni Naples,4,4.425
 Frank Braña,Emilio Linder,4,4.4
-Frank Hagney,Hank Bell,4,4.375
 Frank Mills,Eddy Waller,4,4.375
 Pernilla August,Brasse Brännström,4,4.375
 Russell Simpson,Frank Mills,4,4.375
@@ -14959,8 +14983,6 @@ Gianni Garko,William Berger,4,4.35
 Walter Soderling,Trevor Bardette,4,4.35
 Yuriy Kutsenko,Evgeniy Stychkin,4,4.35
 Abhishek Bachchan,Ajay Devgn,4,4.325
-Lew Ayres,Bess Flowers,4,4.325
-Claude Chabrol,Stéphane Audran,4,4.3
 Jack Kruschen,Barney Phillips,4,4.3
 Trevor Bardette,Cy Kendall,4,4.3
 Yuriy Kutsenko,Aleksey Serebryakov,4,4.3
@@ -14971,11 +14993,8 @@ Blackjack Ward,Jim Corey,4,4.2667
 Russell Simpson,Lane Chandler,4,4.2667
 Trevor Bardette,Clinton Rosemond,4,4.2667
 Dee Wallace,Richard Lynch,4,4.25
-Robert Young,Jimmy Durante,4,4.25
 Tara Reid,Ian Ziering,4,4.25
-Allen Jenkins,Charles C. Wilson,4,4.225
 Eddie Parker,Earl Dwire,4,4.225
-Joan Crawford,John Miljan,4,4.225
 Mikhail Efremov,Vyacheslav Razbegaev,4,4.225
 Robert McKenzie,Frank O'Connor,4,4.2
 Clara Blandick,Henry Armetta,4,4.175
@@ -14985,50 +15004,31 @@ John Miljan,William Haines,4,4.15
 John Wayne,Bob Burns,4,4.125
 Charles Trowbridge,Harry C. Bradley,4,4.1
 Svetlana Khodchenkova,Dmitriy Khrustalev,4,4.075
-Joan Crawford,Anita Page,4,4.0333
 Tiffany Shepis,Robert Donavan,4,4.025
-Leon Ames,Rosemary DeCamp,4,4.0
 Tim Abell,Gerald Webb,4,4.0
 Frank Conroy,Joan Crawford,4,3.975
 Rita Ramnani,Simon Phillips,4,3.975
-C. Aubrey Smith,Lewis Stone,4,3.925
 Jim Backus,Alan Hale Jr.,4,3.925
 Michael Madsen,Vinnie Jones,4,3.875
-Barton MacLane,Allen Jenkins,4,3.8
 Heikki Kinnunen,Kalevi Kahra,4,3.8
 Tom Pöysti,Kalevi Kahra,4,3.8
 Vesa Vierikko,Kalevi Kahra,4,3.8
 Clint Howard,Michael Paré,4,3.775
 Edward D. Wood Jr.,Conrad Brooks,4,3.75
 Melissa Brasselle,Lenny Juliano,4,3.75
-Russell Simpson,Roy Bucko,4,3.7333
-Frank McHugh,Louise Beavers,4,3.7
-Lyle Talbot,Mary Treen,4,3.6667
 Robert Barrat,Addison Richards,4,3.65
-Wallace Ford,John Miljan,4,3.6333
 Jukka Puotila,Heikki Kinnunen,4,3.625
 Jukka Puotila,Tom Pöysti,4,3.625
 Vesa Vierikko,Jukka Puotila,4,3.625
 Jim Farley,Robert McKenzie,4,3.575
 Natassia Malthe,Michael Paré,4,3.575
-Tom Kennedy,Bess Flowers,4,3.55
-Buster Keaton,Edward Brophy,4,3.5333
 Heikki Kinnunen,Pentti Siimes,4,3.5
 Pentti Siimes,Tom Pöysti,4,3.5
 Vesa Vierikko,Pentti Siimes,4,3.5
 Bud Osborne,Bob Burns,4,3.35
 Neville Brand,Darby Hinton,4,3.275
-Marjorie Main,Virginia Weidler,4,3.2
-Frank McHugh,Mary Treen,4,3.2
-Gwen Lee,Polly Moran,4,3.1333
-Louise Beavers,Oscar Apfel,4,3.1333
-Myrna Loy,John Miljan,4,3.0
-Barton MacLane,Olin Howland,4,2.8
 Malisa Longo,Aldo Canti,4,2.75
-Nana Bryant,Bess Flowers,4,2.6
-Ann Dvorak,Gwen Lee,4,2.225
-Ann Dvorak,Cliff Edwards,4,1.5333
-Henry O'Neill,Olin Howland,4,0.0
+Henry O'Neill,Olin Howland,4,
 Ken Jacobs,Adolfas Mekas,3,9.0
 Ken Jacobs,Jonas Mekas,3,9.0
 Lionel Belmore,Barlowe Borland,3,8.8
@@ -15107,6 +15107,7 @@ Diahann Carroll,Harry Belafonte,3,8.1
 Dionysis Papagiannopoulos,Periklis Hristoforidis,3,8.1
 Eijirô Tôno,Shôichi Hirose,3,8.1
 Frank McHugh,Lee Phelps,3,8.1
+George Chandler,Lee Phelps,3,8.1
 Henry Travers,Lionel Barrymore,3,8.1
 Ion Besoiu,Colea Rautu,3,8.1
 James Earl Jones,Burnell Tucker,3,8.1
@@ -15380,6 +15381,7 @@ Roger Waters,Nick Mason,3,7.9
 Roger Waters,Richard Wright,3,7.9
 Brooks Benedict,Maurice Cass,3,7.9
 Edward Arnold,Gloria DeHaven,3,7.9
+Edward Arnold,Van Johnson,3,7.9
 Eitarô Ozawa,Toshiko Kobayashi,3,7.9
 Eugenie Besserer,Polly Moran,3,7.9
 Frank Jaquet,John Ince,3,7.9
@@ -15482,12 +15484,15 @@ Isao Kimura,Yûnosuke Itô,3,7.8667
 Minoru Chiaki,Yûnosuke Itô,3,7.8667
 Noriko Honma,Isao Kimura,3,7.8667
 Setsuko Hara,Chieko Higashiyama,3,7.8667
+Bess Flowers,Heinie Conklin,3,7.85
 Byron Foulger,Frank O'Connor,3,7.85
+Clark Gable,Joseph Crehan,3,7.85
 Daisuke Katô,Kinuyo Tanaka,3,7.85
 Douglas Evans,Ben Taggart,3,7.85
 Henry Fonda,Dick Rich,3,7.85
 Jane Darwell,Dick Rich,3,7.85
 Ray Walker,Bert Moorhouse,3,7.85
+Samuel S. Hinds,Charles C. Wilson,3,7.85
 Van Heflin,Ava Gardner,3,7.85
 Alida Rouffe,Paul Dullac,3,7.8333
 Aoi Miyazaki,Haru Kuroki,3,7.8333
@@ -15815,6 +15820,7 @@ Fred Clark,Grandon Rhodes,3,7.7
 Ganjiro Nakamura,Haruko Sugimura,3,7.7
 George Kennedy,Robert Donner,3,7.7
 George Reeves,Victor Jory,3,7.7
+Ginger Rogers,Xavier Cugat,3,7.7
 Guinn Williams,Jack Pennick,3,7.7
 H.B. Warner,Eddie Fetherston,3,7.7
 H.B. Warner,Lew Davis,3,7.7
@@ -15884,6 +15890,7 @@ Paul McCartney,Dhani Harrison,3,7.7
 Paul McCartney,Jeff Lynne,3,7.7
 Phil Tippett,James Earl Jones,3,7.7
 Phil Tippett,Peter Mayhew,3,7.7
+Phyllis Thaxter,Bess Flowers,3,7.7
 Porter Hall,Gene Morgan,3,7.7
 Ray Teal,Bert Stevens,3,7.7
 Ringo Starr,Dhani Harrison,3,7.7
@@ -16795,10 +16802,12 @@ Yôko Tsukasa,Yōsuke Natsuki,3,7.5667
 Yûsuke Kawazu,Keijirô Morozumi,3,7.5667
 Ann Doran,Edward Earle,3,7.55
 Byron Foulger,Lew Davis,3,7.55
+Edward Arnold,Byron Foulger,3,7.55
 Francis Huster,Jacques Villeret,3,7.55
 James Millican,Laura Treadwell,3,7.55
 John Ince,Byron Foulger,3,7.55
 Walter Soderling,Milton Kibbee,3,7.55
+Dennis Hopper,Mercedes McCambridge,3,7.55
 Giancarlo Esposito,Rosie Perez,3,7.55
 Joe Sawyer,Grant Mitchell,3,7.55
 Joe Sawyer,Harry Tyler,3,7.55
@@ -17048,6 +17057,7 @@ Georg John,Karl Platen,3,7.5
 George Harris,Jason Isaacs,3,7.5
 Giacomo Furia,Totò,3,7.5
 Gian Maria Volonté,Frank Braña,3,7.5
+Ginger Rogers,Claudette Colbert,3,7.5
 Glen Cavender,Billy Wayne,3,7.5
 Graham Greene,Tantoo Cardinal,3,7.5
 H.B. Warner,Edward Keane,3,7.5
@@ -17693,6 +17703,7 @@ Ray Mayer,Kitty McHugh,3,7.4
 Richard Whorf,Howard Da Silva,3,7.4
 Russell Hicks,Richard Carlson,3,7.4
 Ruth Donnelly,Joseph Crehan,3,7.4
+Samuel S. Hinds,Moroni Olsen,3,7.4
 Sara Haden,Sarah Edwards,3,7.4
 Stanley Andrews,Raymond Walburn,3,7.4
 Sô Yamamura,Ken Uehara,3,7.4
@@ -18489,6 +18500,7 @@ Gino Corrado,Nita Pike,3,7.3
 Gino Corrado,Paul Porcasi,3,7.3
 Gino Corrado,Paul Sutton,3,7.3
 Gino Corrado,Tony Martelli,3,7.3
+Giuliana Calandra,Eros Pagni,3,7.3
 Grey Griffin,Gwendoline Yeo,3,7.3
 Grey Griffin,Michael Jackson,3,7.3
 Gwendoline Yeo,Michael Jackson,3,7.3
@@ -18923,6 +18935,7 @@ Donald Crisp,Eric Wilton,3,7.25
 Donald Crisp,Harold Entwistle,3,7.25
 Dora Clement,Bess Flowers,3,7.25
 Douglas Walton,Doris Lloyd,3,7.25
+Edward Arnold,Irving Bacon,3,7.25
 Eric Wilton,Harold Entwistle,3,7.25
 Frank Wilcox,Julie Bishop,3,7.25
 Gary Cooper,Tully Marshall,3,7.25
@@ -18936,6 +18949,7 @@ Judy Garland,Barnett Parker,3,7.25
 Lucille Ball,Gloria DeHaven,3,7.25
 Lucille Ball,June Allyson,3,7.25
 Mary Gordon,Robert Adair,3,7.25
+Moroni Olsen,Charles C. Wilson,3,7.25
 Murray Alper,Milton Kibbee,3,7.25
 Nat Carr,Wedgwood Nowell,3,7.25
 Norman Willis,Pat Flaherty,3,7.25
@@ -19534,6 +19548,7 @@ Eric Johnson,Alexander Carroll,3,7.2
 Eric Johnson,Brenda Strong,3,7.2
 Eric Johnson,Sam Hennings,3,7.2
 Eric Wilton,Frank Dawson,3,7.2
+Eros Pagni,Isa Danieli,3,7.2
 Fan Mei-Sheng,Brandy Yuen,3,7.2
 Fay Wray,James Flavin,3,7.2
 Francisco Rabal,Giuliano Gemma,3,7.2
@@ -19725,6 +19740,7 @@ Vera Lewis,Paul Kruger,3,7.2
 Vernon Dobtcheff,Vanessa Redgrave,3,7.2
 Victor Potel,Dorothy Vernon,3,7.2
 Vittorio Gassman,Elena Fabrizi,3,7.2
+Walter Pidgeon,Lana Turner,3,7.2
 William Meader,Brandon Beach,3,7.2
 William Pawley,Philip Morris,3,7.2
 Yuen Biao,Brandy Yuen,3,7.2
@@ -20065,6 +20081,8 @@ Cliff Clark,James Millican,3,7.15
 Donald Crisp,Crauford Kent,3,7.15
 Emmett Vogan,Jack Wise,3,7.15
 Eric Wilton,Henry Stephenson,3,7.15
+Frank Grillo,Callan Mulvey,3,7.15
+Frank Puglia,Byron Foulger,3,7.15
 Frank Puglia,John Dilson,3,7.15
 Frank Sully,Walter Miller,3,7.15
 Frank Wilcox,Ben Welden,3,7.15
@@ -20075,6 +20093,7 @@ Ingvar Eggert Sigurðsson,Nanna Kristín Magnúsdóttir,3,7.15
 Jack Norton,Al Hill,3,7.15
 Jacques Marin,Jean Lefebvre,3,7.15
 Jim Farley,Pat West,3,7.15
+Joan Crawford,Natalie Moorhead,3,7.15
 John Ekman,Nils Elffors,3,7.15
 Jonathan Hale,Erville Alderson,3,7.15
 Joseph Crehan,Charles Sullivan,3,7.15
@@ -20868,12 +20887,16 @@ Larry Steers,Maurice Costello,3,7.1
 Laurence Naismith,Niall MacGinnis,3,7.1
 Leo White,Edgar Edwards,3,7.1
 Leon Ames,Selena Royle,3,7.1
+Leon Ames,Xavier Cugat,3,7.1
 Lionel Belmore,Eric Wilton,3,7.1
 Mary Gordon,Franklin Pangborn,3,7.1
 Mike Mazurki,Red Skelton,3,7.1
 Milton Kibbee,Nat Carr,3,7.1
 Norman Willis,Al Hill,3,7.1
 Paul E. Burns,Ted North,3,7.1
+Peter Bogdanovich,Henry Jaglom,3,7.1
+Porter Hall,Genevieve Tobin,3,7.1
+Robert Armstrong,Bess Flowers,3,7.1
 Sammy McKim,Frank McGlynn Sr.,3,7.1
 Spencer Tracy,Frank Sully,3,7.1
 Stanley Andrews,Harry Tenbrook,3,7.1
@@ -21250,14 +21273,48 @@ Warner Oland,Francis Ford,3,7.05
 Wilfred Lucas,Tom Wilson,3,7.05
 William Gould,George Guhl,3,7.05
 Akim Tamiroff,Margot Grahame,3,7.05
+Alexis Knapp,Ester Dean,3,7.05
+Alexis Knapp,Hana Mae Lee,3,7.05
+Alexis Knapp,Kelley Jakle,3,7.05
+Alexis Knapp,Shelley Regner,3,7.05
 Allen Jenkins,Leo Gorcey,3,7.05
+Anna Camp,Alexis Knapp,3,7.05
+Anna Camp,Ester Dean,3,7.05
+Anna Camp,Hana Mae Lee,3,7.05
+Anna Camp,Kelley Jakle,3,7.05
+Anna Camp,Rebel Wilson,3,7.05
+Anna Camp,Shelley Regner,3,7.05
+Anna Kendrick,Alexis Knapp,3,7.05
+Anna Kendrick,Anna Camp,3,7.05
+Anna Kendrick,Ester Dean,3,7.05
+Anna Kendrick,Hana Mae Lee,3,7.05
+Anna Kendrick,Kelley Jakle,3,7.05
+Anna Kendrick,Shelley Regner,3,7.05
 Basil Rathbone,Doris Lloyd,3,7.05
+Brittany Snow,Alexis Knapp,3,7.05
+Brittany Snow,Anna Camp,3,7.05
+Brittany Snow,Anna Kendrick,3,7.05
+Brittany Snow,Ester Dean,3,7.05
+Brittany Snow,Hana Mae Lee,3,7.05
+Brittany Snow,Kelley Jakle,3,7.05
+Brittany Snow,Rebel Wilson,3,7.05
+Brittany Snow,Shelley Regner,3,7.05
 C. Henry Gordon,Theresa Harris,3,7.05
 Charles Sullivan,Huey White,3,7.05
 Charley Grapewin,Robert Homans,3,7.05
 Christopher Plummer,Michael Caine,3,7.05
 Dick Gordon,Robert Haines,3,7.05
+Elizabeth Banks,Alexis Knapp,3,7.05
+Elizabeth Banks,Anna Camp,3,7.05
+Elizabeth Banks,Brittany Snow,3,7.05
+Elizabeth Banks,Ester Dean,3,7.05
+Elizabeth Banks,Hana Mae Lee,3,7.05
+Elizabeth Banks,Kelley Jakle,3,7.05
+Elizabeth Banks,Shelley Regner,3,7.05
 Emmett Vogan,Garry Owen,3,7.05
+Ester Dean,Hana Mae Lee,3,7.05
+Ester Dean,Kelley Jakle,3,7.05
+Ester Dean,Shelley Regner,3,7.05
 Felix Bressart,Hans Joby,3,7.05
 Frank Albertson,Bess Flowers,3,7.05
 Frank Sully,Frank O'Connor,3,7.05
@@ -21265,11 +21322,14 @@ Frank Sully,Herbert Heywood,3,7.05
 George Irving,Si Jenks,3,7.05
 Ginger Rogers,Allen Jenkins,3,7.05
 Gordon Westcott,Joseph Crehan,3,7.05
+Hana Mae Lee,Kelley Jakle,3,7.05
+Hana Mae Lee,Shelley Regner,3,7.05
 Harry Tyler,William Pawley,3,7.05
 James Flavin,Charley Grapewin,3,7.05
 Jeff Corey,William Conrad,3,7.05
 John Carradine,Si Jenks,3,7.05
 John Qualen,Selmer Jackson,3,7.05
+Kelley Jakle,Shelley Regner,3,7.05
 Ken Uehara,Tsuruko Mano,3,7.05
 Lane Chandler,Ralph Dunn,3,7.05
 Lewis Stone,Ramon Novarro,3,7.05
@@ -21280,7 +21340,12 @@ Phil Brown,Harry Hayden,3,7.05
 Predrag 'Miki' Manojlović,Sergej Trifunović,3,7.05
 Ralph Dunn,Harry Tenbrook,3,7.05
 Ray Collins,Bess Flowers,3,7.05
+Rebel Wilson,Alexis Knapp,3,7.05
+Rebel Wilson,Hana Mae Lee,3,7.05
+Rebel Wilson,Kelley Jakle,3,7.05
+Rebel Wilson,Shelley Regner,3,7.05
 Richard Webb,Frank Ferguson,3,7.05
+Roland Toutain,Alexandre Rignault,3,7.05
 Rudy Vallee,Bess Flowers,3,7.05
 Russell Hicks,Tom Quinn,3,7.05
 Sam Harris,Robert Haines,3,7.05
@@ -21903,6 +21968,7 @@ John Ridgely,Brooks Benedict,3,7.0
 John Ridgely,George Tobias,3,7.0
 John Saxon,Maurizio Merli,3,7.0
 John Sheehan,Mike Lally,3,7.0
+John Wengraf,Bess Flowers,3,7.0
 Johnny Depp,Giles New,3,7.0
 Jon Eyez,Christopher Berry,3,7.0
 Jonah Hill,Will Arnett,3,7.0
@@ -22123,6 +22189,7 @@ Wade Boteler,Donald Kerr,3,7.0
 Wallace Shawn,Frank Welker,3,7.0
 Walter Brennan,Frank Albertson,3,7.0
 Ward Bond,Jane Crowley,3,7.0
+Warner Anderson,Bess Flowers,3,7.0
 William Demarest,Douglass Dumbrille,3,7.0
 William Demarest,Maurice Cass,3,7.0
 William Sterchi,Danny Winn,3,7.0
@@ -22522,6 +22589,7 @@ Herman Hack,Jack Tornek,3,6.95
 Herman Hack,Scott Seaton,3,6.95
 Irving Bacon,Ernest Whitman,3,6.95
 Jack Carson,William Demarest,3,6.95
+Joan Crawford,Dorothy Sebastian,3,6.95
 Karen Morley,John Miljan,3,6.95
 Leo White,Bob Perry,3,6.95
 Milton Kibbee,Nick Copeland,3,6.95
@@ -22970,6 +23038,7 @@ Tony Shalhoub,Jon Polito,3,6.9
 Adolf Hitler,Heinrich Himmler,3,6.9
 Akira Emoto,Mikako Ichikawa,3,6.9
 Arata Iura,Tasuku Emoto,3,6.9
+Bess Flowers,Xavier Cugat,3,6.9
 Bette Davis,Errol Flynn,3,6.9
 Billy Wayne,Herbert Heywood,3,6.9
 Bing Crosby,Ronald R. Rondell,3,6.9
@@ -22978,6 +23047,7 @@ C. Aubrey Smith,Edward Gargan,3,6.9
 Carl Stockdale,Tom Wilson,3,6.9
 Charles Lane,Ferdinand Gottschalk,3,6.9
 Charlie Chaplin,Douglas Fairbanks,3,6.9
+Dennis Hopper,Henry Jaglom,3,6.9
 Dick Elliott,Edmund Mortimer,3,6.9
 Dick Elliott,Hal K. Dawson,3,6.9
 Don Rowan,James Blaine,3,6.9
@@ -23012,6 +23082,7 @@ Kit Guard,Al Lloyd,3,6.9
 Kurtwood Smith,Kenneth Mars,3,6.9
 Lando Buzzanca,Salvo Randone,3,6.9
 Leonard Mudie,William Worthington,3,6.9
+Lewis Stone,John Gilbert,3,6.9
 Lewis Stone,Stewart Granger,3,6.9
 Louis Mercier,André Cheron,3,6.9
 Marc Lawrence,Anthony Caruso,3,6.9
@@ -23980,6 +24051,7 @@ Frances Rafferty,Rags Ragland,3,6.85
 Frank Sully,Trevor Bardette,3,6.85
 George Chandler,Frank Sully,3,6.85
 Giancarlo Esposito,Ossie Davis,3,6.85
+Giovanni Ribisi,Stephen Lang,3,6.85
 Harry Carey,Ben Taggart,3,6.85
 Holmes Herbert,Halliwell Hobbes,3,6.85
 Jane Darwell,Edward Brophy,3,6.85
@@ -23990,6 +24062,7 @@ Joe Downing,Charles Sullivan,3,6.85
 Joe Turkel,William Benedict,3,6.85
 John Qualen,Harry Cording,3,6.85
 Jonathan Hale,Robert Taylor,3,6.85
+Keenan Wynn,Edward Arnold,3,6.85
 Lloyd Ingraham,Robert Dudley,3,6.85
 Mary Gordon,A.S. Byron,3,6.85
 Neville Brand,Whit Bissell,3,6.85
@@ -24147,6 +24220,7 @@ Harvey Korman,Paul Frees,3,6.8333
 Helena Bonham Carter,Richard E. Grant,3,6.8333
 Henry Fonda,Harry Davenport,3,6.8333
 Hillary Brooke,Henry Daniell,3,6.8333
+Hiroki Touchi,Norito Yashima,3,6.8333
 Hirotaka Suzuoki,Katsuji Mori,3,6.8333
 Humphrey Bogart,Ida Lupino,3,6.8333
 Humphrey Bogart,Jane Bryan,3,6.8333
@@ -24223,6 +24297,8 @@ Julius Tannen,Georgia Caine,3,6.8333
 Karen Mok,Ng Man-Tat,3,6.8333
 Kathleen Howard,Jack Chefe,3,6.8333
 Kay Kay Menon,Aditya Srivastava,3,6.8333
+Kazuya Nakai,Hiroki Touchi,3,6.8333
+Kazuya Nakai,Norito Yashima,3,6.8333
 Keenan Wynn,Angela Lansbury,3,6.8333
 Ken Curtis,Maureen O'Hara,3,6.8333
 Ken Lynch,Bess Flowers,3,6.8333
@@ -24267,6 +24343,9 @@ Matti Pellonpää,Silu Seppälä,3,6.8333
 Maurice Costello,Sam Harris,3,6.8333
 Max von Sydow,Inga Gill,3,6.8333
 Max von Sydow,Inga Landgré,3,6.8333
+Megumi Hayashibara,Hiroki Touchi,3,6.8333
+Megumi Hayashibara,Kazuya Nakai,3,6.8333
+Megumi Hayashibara,Norito Yashima,3,6.8333
 Melville Cooper,William H. O'Brien,3,6.8333
 Michael Gwisdek,Johanna Wokalek,3,6.8333
 Mike Lally,Hank Bell,3,6.8333
@@ -24344,6 +24423,9 @@ Tom Wilkinson,Harriet Walter,3,6.8333
 Toni Servillo,Anna Bonaiuto,3,6.8333
 Tony Leung Chiu-Wai,Wang Qingxiang,3,6.8333
 Toshio Furukawa,Katsuji Mori,3,6.8333
+Tsutomu Isobe,Hiroki Touchi,3,6.8333
+Tsutomu Isobe,Kazuya Nakai,3,6.8333
+Tsutomu Isobe,Norito Yashima,3,6.8333
 Tully Marshall,Lionel Barrymore,3,6.8333
 Udo Kier,Chloë Sevigny,3,6.8333
 Ugo Tognazzi,Marco Ferreri,3,6.8333
@@ -25326,10 +25408,13 @@ Anthony Quinn,Edward Gargan,3,6.75
 Arthur Housman,Edward Gargan,3,6.75
 August Schellenberg,Lawrence Bayne,3,6.75
 Bert Roach,Edward Gargan,3,6.75
+Bess Flowers,William Halligan,3,6.75
 Bill Elliott,Cliff Saum,3,6.75
 Billy Wayne,Bill Elliott,3,6.75
+Byron Foulger,William Halligan,3,6.75
 Cecil Parker,Kenneth More,3,6.75
 Charles C. Wilson,Georgie Billings,3,6.75
+Charles C. Wilson,Lyle Talbot,3,6.75
 Charles Lane,Max Wagner,3,6.75
 Charles Trowbridge,Frank Marlowe,3,6.75
 Charles Winninger,Libby Taylor,3,6.75
@@ -25338,6 +25423,7 @@ Claude Rains,Claire Du Brey,3,6.75
 Claude Rains,Eddy Chandler,3,6.75
 Clive Morgan,Christian Rub,3,6.75
 Cy Kendall,George DeNormand,3,6.75
+Dickie Moore,Brooks Benedict,3,6.75
 Donald Kerr,John Dilson,3,6.75
 Doodles Weaver,Harry Wilson,3,6.75
 Douglas Evans,Wade Boteler,3,6.75
@@ -25361,7 +25447,6 @@ Guy Usher,Harry Hayden,3,6.75
 Henry O'Neill,Jean Rogers,3,6.75
 Henry Stephenson,Robert Adair,3,6.75
 Henry Travers,Irving Bacon,3,6.75
-Hiroki Touchi,Norito Yashima,3,6.75
 Jean Gabin,Gaby Basset,3,6.75
 Jim Henson,Sonia Manzano,3,6.75
 Joe Sawyer,Billy Wayne,3,6.75
@@ -25370,15 +25455,10 @@ John Boles,Sara Haden,3,6.75
 John Qualen,Harry Strang,3,6.75
 John Ridgely,Spencer Charters,3,6.75
 Julie Walters,Sian Thomas,3,6.75
-Kazuya Nakai,Hiroki Touchi,3,6.75
-Kazuya Nakai,Norito Yashima,3,6.75
 Leo White,Jeffrey Lynn,3,6.75
 Leo White,Kit Guard,3,6.75
 Leon Belasco,Jack Raymond,3,6.75
 Lionel Belmore,Robert Adair,3,6.75
-Megumi Hayashibara,Hiroki Touchi,3,6.75
-Megumi Hayashibara,Kazuya Nakai,3,6.75
-Megumi Hayashibara,Norito Yashima,3,6.75
 Michael Caine,Robert Shaw,3,6.75
 Mitchell Lewis,Edward Hearn,3,6.75
 Paul Panzer,Kit Guard,3,6.75
@@ -25392,11 +25472,9 @@ Samuel S. Hinds,Cecil Cunningham,3,6.75
 Takeshi Kaneshiro,Charlie Yeung,3,6.75
 Tantoo Cardinal,August Schellenberg,3,6.75
 Tantoo Cardinal,Lawrence Bayne,3,6.75
-Tsutomu Isobe,Hiroki Touchi,3,6.75
-Tsutomu Isobe,Kazuya Nakai,3,6.75
-Tsutomu Isobe,Norito Yashima,3,6.75
 Tyrone Power,George Zucco,3,6.75
 Virginia Brissac,Harry Hayden,3,6.75
+Zoe Saldana,Sigourney Weaver,3,6.75
 Brent Briscoe,Dwight Yoakam,3,6.7333
 Diane Kruger,Denis Ménochet,3,6.7333
 Elliott Gould,Sally Kellerman,3,6.7333
@@ -26978,6 +27056,7 @@ Caroll Spinney,Bob McGrath,3,6.65
 Charles Halton,Oliver Blake,3,6.65
 Charles Tannen,Bess Flowers,3,6.65
 Claire McDowell,Erville Alderson,3,6.65
+Dennis Hopper,Peter Bogdanovich,3,6.65
 Dora Clement,Cyril Ring,3,6.65
 Eddie Acuff,Edward Gargan,3,6.65
 Eva Gabor,Bess Flowers,3,6.65
@@ -26988,6 +27067,7 @@ Frank Sully,Tom Wilson,3,6.65
 Gene Hackman,Rip Torn,3,6.65
 George Hilton,Umberto D'Orsi,3,6.65
 Go Ayano,Tsutomu Takahashi,3,6.65
+Hedda Hopper,Dorothy Sebastian,3,6.65
 Jack Chefe,Jean De Briac,3,6.65
 Jack Wise,Harold Miller,3,6.65
 Jeff Anderson,Harley Quinn Smith,3,6.65
@@ -26997,6 +27077,7 @@ Joe King,Jack Wise,3,6.65
 Jonathan Hale,Edward Keane,3,6.65
 Larry Miller,John Michael Higgins,3,6.65
 Lee Phelps,Dick Rush,3,6.65
+Leon Ames,Lana Turner,3,6.65
 Lorraine Ashbourne,Aisling Loftus,3,6.65
 Louis Natheaux,James Carlisle,3,6.65
 Louis Natheaux,Sam Harris,3,6.65
@@ -27022,7 +27103,9 @@ Tully Marshall,Lucien Littlefield,3,6.65
 Victor Kilian,Dick Rich,3,6.65
 Victor Kilian,Paul E. Burns,3,6.65
 Victor Lanoux,Marthe Villalonga,3,6.65
+Vlad Ivanov,Adrian Titieni,3,6.65
 Wade Boteler,Charles Sherlock,3,6.65
+Walter Huston,John Miljan,3,6.65
 Wilfred Lucas,Dickie Jones,3,6.65
 William Tannen,Charles Sherlock,3,6.65
 Sarah Silverman,Scott Aukerman,3,6.6333
@@ -27994,6 +28077,7 @@ Arthur Loft,Harry Tenbrook,3,6.6
 Beata Tyszkiewicz,Elżbieta Czyżewska,3,6.6
 Byron Foulger,Bruce Mitchell,3,6.6
 Carol Hughes,Bess Flowers,3,6.6
+Charles Ruggles,Claudette Colbert,3,6.6
 Chuck Hamilton,Edward Earle,3,6.6
 Dennis O'Keefe,Theresa Harris,3,6.6
 Dick Wessel,Joe King,3,6.6
@@ -28031,6 +28115,7 @@ Matt McHugh,Davison Clark,3,6.6
 Mitchell Lewis,Harry Tyler,3,6.6
 Nigel Bruce,Tyrone Power,3,6.6
 Paul Hurst,Charles Sherlock,3,6.6
+Porter Hall,Olin Howland,3,6.6
 Richard Hunt,Caroll Spinney,3,6.6
 Rik Battaglia,John Steiner,3,6.6
 Robert Barrat,Ben Hendricks Jr.,3,6.6
@@ -28040,6 +28125,7 @@ Sol Gorss,Mike Lally,3,6.6
 Sol Gorss,Robert Homans,3,6.6
 Takeshi Katô,Masao Oda,3,6.6
 Trevor Bardette,Georgia Simmons,3,6.6
+Tully Marshall,Mitchell Lewis,3,6.6
 Victor Kilian,Linda Darnell,3,6.6
 Virginia Brissac,Henry Fonda,3,6.6
 William Tannen,Eddy Waller,3,6.6
@@ -28472,6 +28558,7 @@ Yves Jacques,Yves Verhoeven,3,6.5667
 Zach Galifianakis,Doug Benson,3,6.5667
 Ángel Álvarez,Agustín González,3,6.5667
 Ann Rutherford,Billy Bletcher,3,6.55
+Arthur Holden,Raphael Grosz-Harvey,3,6.55
 Charles McAvoy,Bert Moorhouse,3,6.55
 Esther Dale,Amzie Strickland,3,6.55
 Frank Puglia,Harold Miller,3,6.55
@@ -28516,6 +28603,7 @@ Robert Warwick,Robert Barrat,3,6.55
 Robin Williams,George Lopez,3,6.55
 Shabana Azmi,Pankaj Kapur,3,6.55
 Si Jenks,Blackie Whiteford,3,6.55
+Stacy Keach,Bruce Greenwood,3,6.55
 Steve Pendleton,Walter Miller,3,6.55
 Tomorowo Taguchi,Go Ayano,3,6.55
 Tomorowo Taguchi,Takayuki Yamada,3,6.55
@@ -29174,6 +29262,7 @@ George Meeker,Mike Lally,3,6.5
 George Raft,Harry Tenbrook,3,6.5
 George Reeves,Victor Kilian,3,6.5
 George Tobias,William Haade,3,6.5
+Ginger Rogers,Norman Foster,3,6.5
 Glen Cavender,Leonard Mudie,3,6.5
 Glenn Ford,Basil Ruysdael,3,6.5
 Gloria DeHaven,Bess Flowers,3,6.5
@@ -29314,6 +29403,7 @@ Leon Ames,Robert Montgomery,3,6.5
 Leonard Mudie,Frank Mayo,3,6.5
 Leonid Kinskey,Charles Lane,3,6.5
 Leslie Banks,Robert Newton,3,6.5
+Lewis Stone,John Miljan,3,6.5
 Leyland Hodgson,Colin Kenny,3,6.5
 Lillian Gish,Alfred Paget,3,6.5
 Lillian Gish,Creighton Hale,3,6.5
@@ -29389,6 +29479,7 @@ Peter Hesse Overgaard,Lars Lunøe,3,6.5
 Peter Sellers,Lionel Jeffries,3,6.5
 Phil Tead,Harry Tenbrook,3,6.5
 Philippe Lefebvre,Laurent Lafitte,3,6.5
+Porter Hall,Frank Puglia,3,6.5
 RZA,Russell Crowe,3,6.5
 Rafael Storm,Eugene Borden,3,6.5
 Raizô Ichikawa,Reiko Fujiwara,3,6.5
@@ -29445,6 +29536,7 @@ Stanley Ridges,Ray Teal,3,6.5
 Stanley Ridges,Ward Bond,3,6.5
 Stellan Skarsgård,Erland Josephson,3,6.5
 Stellan Skarsgård,Ray Stevenson,3,6.5
+Stephen Lang,Matt Gerald,3,6.5
 Steve Carell,Jan Rabson,3,6.5
 Steve Carell,Jess Harnell,3,6.5
 Steve Carell,John Cygan,3,6.5
@@ -30143,22 +30235,27 @@ Frank Ellis,Kermit Maynard,3,6.45
 George Chandler,H.B. Warner,3,6.45
 George Lloyd,Ben Taggart,3,6.45
 George Zucco,Olaf Hytten,3,6.45
+Ginger Rogers,Robert Benchley,3,6.45
 Halliwell Hobbes,Olaf Hytten,3,6.45
 Harold Miller,Kit Guard,3,6.45
 Harry Cording,Mike Lally,3,6.45
 Harry Davenport,Paul Harvey,3,6.45
 Iftekhar,Satyendra Kapoor,3,6.45
+John Garfield,Dane Clark,3,6.45
 John Ince,Larry Steers,3,6.45
 John Ince,Lloyd Ingraham,3,6.45
+John Ridgely,Eleanor Parker,3,6.45
 Joseph Schildkraut,Henry Stephenson,3,6.45
 Lane Chandler,Garry Owen,3,6.45
 Lane Chandler,Kansas Moehring,3,6.45
 Mickey Rooney,Shelley Winters,3,6.45
 Nick Nolte,Woody Harrelson,3,6.45
 Olaf Hytten,Ben Taggart,3,6.45
+Peter Cushing,Caron Gardner,3,6.45
 Reginald Owen,Sara Haden,3,6.45
 Roy Roberts,Don Beddoe,3,6.45
 Sol Gorss,Gale Page,3,6.45
+Walter Pidgeon,Frank Faylen,3,6.45
 Werner Krauss,Ilka Grüning,3,6.45
 Albert Dekker,Eduardo Ciannelli,3,6.45
 Chris Rock,George Wallace,3,6.45
@@ -30660,9 +30757,11 @@ Jim Farley,Stanley Andrews,3,6.4
 Joe Sawyer,John Harron,3,6.4
 John Harron,Milton Kibbee,3,6.4
 John Kelly,Dennis O'Keefe,3,6.4
+John Ridgely,Don McGuire,3,6.4
 John Ridgely,Milton Kibbee,3,6.4
 John Wayne,David Torrence,3,6.4
 Jonathan Hale,John Dilson,3,6.4
+Joseph Crehan,Al Shean,3,6.4
 Lionel Barrymore,Phillips Holmes,3,6.4
 Marc Lawrence,Al Hill,3,6.4
 Minerva Urecal,William Benedict,3,6.4
@@ -30679,6 +30778,7 @@ Victor Mature,Bess Flowers,3,6.4
 Vittorio Caprioli,Salvatore Billa,3,6.4
 Ward Bond,Lew Harvey,3,6.4
 Warner Oland,Drue Leyton,3,6.4
+Will Smith,Martin Lawrence,3,6.4
 William Tannen,Harry Strang,3,6.4
 William Tannen,Hooper Atchley,3,6.4
 William Tannen,Pierre Watkin,3,6.4
@@ -31424,6 +31524,7 @@ Kate Beckinsale,Richard Cetrone,3,6.3667
 Kathleen Barr,Kirby Morrow,3,6.3667
 Kathy Baker,Kerri Smith,3,6.3667
 Kathy Griffin,Lewis Black,3,6.3667
+Kazuya Nakai,Toshiko Fujita,3,6.3667
 Keanu Reeves,Cornel West,3,6.3667
 Kenneth Colley,Glenda Jackson,3,6.3667
 Kenneth Connor,Terry Scott,3,6.3667
@@ -31662,6 +31763,7 @@ Jack Taylor,Pilar Alcón,3,6.35
 James Cagney,Doris Day,3,6.35
 James Stewart,Charles Robinson,3,6.35
 Jane Wyatt,Lee J. Cobb,3,6.35
+John Ridgely,Warren Douglas,3,6.35
 Jonas Karlsson,Rebecka Hemse,3,6.35
 Josua Bengtson,Nils Aréhn,3,6.35
 Keenan Wynn,Red Skelton,3,6.35
@@ -31672,8 +31774,10 @@ Roger Allam,John Sessions,3,6.35
 Russell Hicks,Eddie 'Rochester' Anderson,3,6.35
 Spencer Tracy,Emmett Vogan,3,6.35
 Stanley Andrews,James Blaine,3,6.35
+Wallace Beery,Nelson McDowell,3,6.35
 Ward Bond,Joel McCrea,3,6.35
 Ward Bond,Max Davidson,3,6.35
+Warren Douglas,John Garfield,3,6.35
 Þröstur Leó Gunnarsson,Ingvar Eggert Sigurðsson,3,6.35
 Akhilendra Mishra,Yashpal Sharma,3,6.3333
 Akio Ohtsuka,Ryūsei Nakao,3,6.3333
@@ -32382,11 +32486,13 @@ Dennis O'Keefe,Bill Elliott,3,6.3
 Denver Pyle,Ken Curtis,3,6.3
 Dexter Fletcher,John Standing,3,6.3
 Dick Rush,Sidney D'Albrook,3,6.3
+Dickie Moore,Joan Blondell,3,6.3
 Dimitry Elyashkevich,Dave England,3,6.3
 Dimitry Elyashkevich,Greg Iguchi,3,6.3
 Dimitry Elyashkevich,Jess Margera,3,6.3
 Don Brodie,Bruce Mitchell,3,6.3
 Don McKellar,David Hemblen,3,6.3
+Dorothy Jordan,Clarence Muse,3,6.3
 Dub Taylor,Don Knotts,3,6.3
 Dylan Kenin,Alma Sisneros,3,6.3
 Dylan Kenin,Kevin Wiggins,3,6.3
@@ -32544,6 +32650,7 @@ John Hamilton,Don Rowan,3,6.3
 John Hurt,Roger Lloyd Pack,3,6.3
 John Le Mesurier,Victor Maddern,3,6.3
 John Leguizamo,Karen Disher,3,6.3
+John Ridgely,Ann Doran,3,6.3
 John Ridgely,Frank McHugh,3,6.3
 John Ridgely,Joe Sawyer,3,6.3
 John Ridgely,Ralph Dunn,3,6.3
@@ -33376,6 +33483,7 @@ Marc Lawrence,Bess Flowers,3,6.25
 Marc Lawrence,Marion Martin,3,6.25
 Marc Lawrence,Ward Bond,3,6.25
 May Robson,Hobart Cavanaugh,3,6.25
+Myrna Loy,Clarence Muse,3,6.25
 Myrna Loy,George Meeker,3,6.25
 Nao Omori,Sadao Abe,3,6.25
 Nell Craig,Joe Yule,3,6.25
@@ -34218,6 +34326,7 @@ Philip Kwok Chun-Fung,Wai Pak,3,6.2
 Pierce Brosnan,Desmond Llewelyn,3,6.2
 Pierre Richard,Jacques Frantz,3,6.2
 Pierre Watkin,Paul Panzer,3,6.2
+Porter Hall,Charles C. Wilson,3,6.2
 Priscilla Pointer,Amy Irving,3,6.2
 Priyanka Chopra,Kangana Ranaut,3,6.2
 Ralph Herforth,Benno Fürmann,3,6.2
@@ -34305,6 +34414,7 @@ Ugo Bologna,Ennio Antonelli,3,6.2
 Umberto Raho,Rosita Torosh,3,6.2
 Una O'Connor,Tempe Pigott,3,6.2
 Urbain Cancelier,André Dussollier,3,6.2
+Van Johnson,Xavier Cugat,3,6.2
 Vaughn Taylor,Richard Jaeckel,3,6.2
 Vera Lewis,Herbert Heywood,3,6.2
 Victor Francen,Faye Emerson,3,6.2
@@ -34331,6 +34441,8 @@ Claude Rains,Frank Mayo,3,6.2
 Claude Rains,Jack Mower,3,6.2
 Edward LeSaint,Wade Boteler,3,6.2
 Errol Flynn,Irving Bacon,3,6.2
+Henry Kolker,Joseph Crehan,3,6.2
+John Ridgely,Rory Mallinson,3,6.2
 Mary Gordon,Harold Entwistle,3,6.2
 Sam Hayes,Paul Panzer,3,6.2
 Samuel S. Hinds,Willie Fung,3,6.2
@@ -34890,6 +35002,7 @@ Claire McDowell,Grant Mitchell,3,6.15
 Dale Evans,George 'Gabby' Hayes,3,6.15
 Denholm Elliott,Phoebe Nicholls,3,6.15
 Douglas Walton,Billy Bevan,3,6.15
+Edward Peil Sr.,Joseph Crehan,3,6.15
 Frank Jaquet,Frank O'Connor,3,6.15
 George Chandler,Ernest Whitman,3,6.15
 Harry Tyler,Ernie Alexander,3,6.15
@@ -34911,6 +35024,7 @@ Olin Howland,Billy Wayne,3,6.15
 Olin Howland,Paul E. Burns,3,6.15
 Paul Newman,Jeffrey DeMunn,3,6.15
 Peter Lawford,Burgess Meredith,3,6.15
+Robert McWade,Claire Dodd,3,6.15
 Samuel S. Hinds,Olin Howland,3,6.15
 Sol Gorss,Joe King,3,6.15
 Vera Lewis,Howard C. Hickman,3,6.15
@@ -34919,6 +35033,7 @@ Vincent Kok,Anthony Wong,3,6.15
 Virginia Brissac,Ben Carter,3,6.15
 Ward Bond,Kernan Cripps,3,6.15
 Warren Hymer,Pat Somerset,3,6.15
+William Bakewell,Joan Crawford,3,6.15
 William Gould,Emmett Vogan,3,6.15
 James Russo,William Forsythe,3,6.1333
 50 Cent,Lydia Hull,3,6.1333
@@ -35751,7 +35866,9 @@ Yūrei Yanagi,Reita Serizawa,3,6.1
 Zbigniew Zamachowski,Janusz Gajos,3,6.1
 Addison Richards,Herbert Heywood,3,6.1
 Amy Adams,Henry Cavill,3,6.1
+Arthur Holden,Richard Jutras,3,6.1
 Charles Lane,Toby Wing,3,6.1
+Clark Gable,Hale Hamilton,3,6.1
 Claudette Colbert,George Davis,3,6.1
 Diane Lane,Amy Adams,3,6.1
 Diane Lane,Henry Cavill,3,6.1
@@ -36387,7 +36504,6 @@ Zak Orth,Christopher Meloni,3,6.0667
 Моррис Честнат,Eddie Cibrian,3,6.0667
 George Reeves,Henry O'Neill,3,6.05
 Jim Farley,Reed Howes,3,6.05
-Kazuya Nakai,Toshiko Fujita,3,6.05
 Lew Kelly,Hooper Atchley,3,6.05
 Mike Mazurki,Rags Ragland,3,6.05
 Olaf Hytten,Mary MacLaren,3,6.05
@@ -36412,16 +36528,20 @@ Hans Conried,Bess Flowers,3,6.05
 Harry Tenbrook,Kernan Cripps,3,6.05
 Helen Mirren,Malcolm McDowell,3,6.05
 Howard Da Silva,Creighton Hale,3,6.05
+Jack Benny,George K. Arthur,3,6.05
+Jack Benny,Marie Dressler,3,6.05
 Joan Crawford,William Haines,3,6.05
 Lane Chandler,Karl Hackett,3,6.05
 Lionel Royce,Charles Sherlock,3,6.05
 Margaret Hamilton,Robert McKenzie,3,6.05
+Marie Dressler,George K. Arthur,3,6.05
 Michael Mark,Jack George,3,6.05
 Robin Williams,Mario Cantone,3,6.05
 Rod Steiger,Ralph Meeker,3,6.05
 Rudolf Hess,Joseph Goebbels,3,6.05
 Selmer Jackson,Charles Sherlock,3,6.05
 Steven Geray,Arthur Space,3,6.05
+Walter Huston,Wallace Ford,3,6.05
 Ward Bond,Charles Sherlock,3,6.05
 Ward Bond,Frank Moran,3,6.05
 Ward Bond,George Magrill,3,6.05
@@ -36973,6 +37093,7 @@ Aure Atika,Richard Anconina,3,6.0
 Aure Atika,Serge Malik,3,6.0
 Barbara Bach,Richard Kiel,3,6.0
 Barbara Stanwyck,Basil Ruysdael,3,6.0
+Barton MacLane,Lyle Talbot,3,6.0
 Ben Cotton,Kett Turton,3,6.0
 Ben Stiller,Amy Poehler,3,6.0
 Benoît Poelvoorde,Gustave de Kervern,3,6.0
@@ -37165,6 +37286,7 @@ Isaac Sharry,Serge Malik,3,6.0
 Ivano Staccioli,Gianni Garko,3,6.0
 Jack Chefe,Ferdinand Munier,3,6.0
 Jack Gardner,Paul Panzer,3,6.0
+Jack Holt,Bess Flowers,3,6.0
 Jack MacGowran,Noel Purcell,3,6.0
 Jackie Chan,Emil Chow,3,6.0
 Jackie Chan,Wong Ching,3,6.0
@@ -37265,6 +37387,7 @@ Lena Horne,Harry James,3,6.0
 Leo Gullotta,Marzio Honorato,3,6.0
 Leo White,Dick Foran,3,6.0
 Leo White,Hobart Cavanaugh,3,6.0
+Leon Ames,Irving Bacon,3,6.0
 Leonid Kuravlyov,Aleksandr Shirvindt,3,6.0
 Leslie Nielsen,Robert Hays,3,6.0
 Liam Cunningham,J. J. Feild,3,6.0
@@ -37798,11 +37921,15 @@ Albert Dekker,Rose Plumer,3,5.95
 Bert Roach,Bess Flowers,3,5.95
 Cesar Romero,John Carradine,3,5.95
 Charley Grapewin,Murray Kinnell,3,5.95
+Clark Gable,Joan Marsh,3,5.95
 Dom DeLuise,Richard Pryor,3,5.95
 Edward Fielding,Victor Kilian,3,5.95
 Ethel Griffies,May Robson,3,5.95
+Frank Reicher,Chris-Pin Martin,3,5.95
 George Guhl,Wedgwood Nowell,3,5.95
+George Irving,Wallace Ford,3,5.95
 Glenn Strange,Al Ferguson,3,5.95
+Henry Jaglom,Oja Kodar,3,5.95
 James Stephenson,Cliff Saum,3,5.95
 John Ince,Harry Strang,3,5.95
 Lionel Barrymore,Madge Evans,3,5.95
@@ -37822,6 +37949,7 @@ George Sanders,Lester Sharpe,3,5.95
 Henry Fonda,Bess Flowers,3,5.95
 Henry Otho,Larry McGrath,3,5.95
 Ingvar Eggert Sigurðsson,Ólafur Darri Ólafsson,3,5.95
+James Coco,Doris Roberts,3,5.95
 John Harmon,Bob Kortman,3,5.95
 Kay Linaker,Tom Quinn,3,5.95
 Lane Chandler,Charles Sherlock,3,5.95
@@ -38209,6 +38337,7 @@ Ennio Antonelli,Stefano Antonucci,3,5.9
 Matt Malloy,Rebecca Pidgeon,3,5.9
 Milena Vukotic,Antonio Allocca,3,5.9
 Richard Alexander,Harry Tenbrook,3,5.9
+Anita Page,Dorothy Sebastian,3,5.9
 Ben Affleck,Diane Lane,3,5.9
 Berton Churchill,Aline MacMahon,3,5.9
 Charles Halton,Larry Steers,3,5.9
@@ -38234,6 +38363,7 @@ Joe Cunningham,Paul Panzer,3,5.9
 Joe Sawyer,Tex Cooper,3,5.9
 John Miljan,Murray Kinnell,3,5.9
 Laurence Naismith,Geoffrey Bayldon,3,5.9
+Leila Hyams,Lewis Stone,3,5.9
 May Robson,Irving Bacon,3,5.9
 Megumi Hayashibara,Kikuko Inoue,3,5.9
 Michel Piccoli,Sandrine Kiberlain,3,5.9
@@ -38944,6 +39074,7 @@ Arthur Kennedy,Jane Wyman,3,5.85
 Boris Karloff,Gibson Gowland,3,5.85
 Bud Osborne,Tex Driscoll,3,5.85
 Claire Dodd,Robert Barrat,3,5.85
+Clark Gable,Frank Faylen,3,5.85
 Cyril Ring,Dick Botiller,3,5.85
 Davison Clark,Louis Natheaux,3,5.85
 Dick Rush,Dick Botiller,3,5.85
@@ -38963,12 +39094,14 @@ Joe Sawyer,Howard C. Hickman,3,5.85
 John J. Richardson,Frankie Burke,3,5.85
 John Merton,Monte Blue,3,5.85
 John Ridgely,Frankie Burke,3,5.85
+Keenan Wynn,Xavier Cugat,3,5.85
 Lane Chandler,David Newell,3,5.85
 Lynne Overman,Sam Ash,3,5.85
 Matthias Schoenaerts,Nico Sturm,3,5.85
 Michael Caine,Donald Sutherland,3,5.85
 Nell Craig,Emmett Vogan,3,5.85
 Paul Panzer,Frankie Burke,3,5.85
+Rosemary DeCamp,Frank Puglia,3,5.85
 Roy Rogers,George 'Gabby' Hayes,3,5.85
 Russell Simpson,Victor Jory,3,5.85
 Sam Ash,Sidney D'Albrook,3,5.85
@@ -39378,6 +39511,7 @@ Ben Affleck,Ezra Miller,3,5.8
 Charles Ruggles,Fred MacMurray,3,5.8
 Claudette Colbert,Frank Puglia,3,5.8
 Cynthia Nixon,Ilana Levine,3,5.8
+George Barbier,Sheila Bromley,3,5.8
 James Flavin,Herbert Anderson,3,5.8
 Olaf Hytten,Billy Bevan,3,5.8
 Sidney Poitier,Beverly Todd,3,5.8
@@ -39396,6 +39530,7 @@ Amrish Puri,Kulbhushan Kharbanda,3,5.8
 Andrei Panin,Aleksey Panin,3,5.8
 Andrew Lin,Carl Ng,3,5.8
 Anke Engelke,Oliver Pocher,3,5.8
+Ann Doran,Anthony Caruso,3,5.8
 Ann Sheridan,Paul Panzer,3,5.8
 Anna Asp,Elmira Arikan,3,5.8
 Anna Asp,Ingvar Hirdwall,3,5.8
@@ -40149,6 +40284,7 @@ Ian Wolfe,Anita Sharp-Bolster,3,5.75
 Ian Wolfe,Peter Lawford,3,5.75
 James Flavin,Vera Lewis,3,5.75
 Joe Whitehead,Wade Boteler,3,5.75
+John Carradine,Binnie Barnes,3,5.75
 John Litel,Dennis Morgan,3,5.75
 Lena Horne,Ben Blue,3,5.75
 Leonard Mudie,David Clyde,3,5.75
@@ -40169,6 +40305,7 @@ William Tannen,E. Alyn Warren,3,5.75
 William Tannen,Florence Rice,3,5.75
 William Tannen,John Dilson,3,5.75
 William Tannen,Matt McHugh,3,5.75
+Xavier Cugat,Lina Romay,3,5.75
 Diane Lane,Bruce Dern,3,5.7333
 Frankie Faison,John Cho,3,5.7333
 Gérard Jugnot,Roland Giraud,3,5.7333
@@ -40419,6 +40556,8 @@ Bill Hader,Christopher Mintz-Plasse,3,5.7
 Billy Bevan,Hank Bell,3,5.7
 Billy Bob Thornton,John Cusack,3,5.7
 Billy Watson,Francis Ford,3,5.7
+Bob Card,Hank Bell,3,5.7
+Bob Card,Roy Bucko,3,5.7
 Bud Osborne,Rudy Bowman,3,5.7
 Carl Reiner,Jonathan Winters,3,5.7
 Cary-Hiroyuki Tagawa,Dolph Lundgren,3,5.7
@@ -40642,6 +40781,7 @@ Roy Roberts,Reed Hadley,3,5.7
 Russell Hicks,Charles Sullivan,3,5.7
 Russell Hicks,Larry Steers,3,5.7
 Russell Hicks,Lee Shumway,3,5.7
+Russell Simpson,Carl Stockdale,3,5.7
 Russell Simpson,Edwin Maxwell,3,5.7
 Russell Simpson,William Haade,3,5.7
 Senta Berger,Yul Brynner,3,5.7
@@ -40696,6 +40836,7 @@ Doris Lloyd,David Torrence,3,5.7
 Gary Cooper,Lucien Littlefield,3,5.7
 Jerome Cowan,Steven Geray,3,5.7
 Paul Muni,Robert Barrat,3,5.7
+Polly Moran,George K. Arthur,3,5.7
 Robert Armstrong,Ward Bond,3,5.7
 Robert Barrat,Huey White,3,5.7
 Selmer Jackson,Charles McMurphy,3,5.7
@@ -40948,10 +41089,12 @@ Yukihiko Gondô,Katsumi Tezuka,3,5.6667
 Zhang Hanyu,Zhang Guoli,3,5.6667
 Álvaro Matute,Salvador Godínez,3,5.6667
 Alan Hale,Jane Wyman,3,5.65
+Ann Doran,Moroni Olsen,3,5.65
 Benito Pacifico,Jeff Cameron,3,5.65
 Billy Wayne,Ralph Dunn,3,5.65
 Bing Crosby,Mary Martin,3,5.65
 Blackie Whiteford,Merrill McCormick,3,5.65
+Bob Dylan,Pete Seeger,3,5.65
 Brian Donlevy,Robert Taylor,3,5.65
 Brick Sullivan,Jack Mower,3,5.65
 Bud Geary,Larry Steers,3,5.65
@@ -40964,12 +41107,17 @@ George Reeves,Frank McHugh,3,5.65
 George Reeves,Wilfred Lucas,3,5.65
 Gillian Chung,Daniel Wu,3,5.65
 Grady Sutton,Henry O'Neill,3,5.65
+Hedda Hopper,Oscar Apfel,3,5.65
 Jack Betts,Jeff Cameron,3,5.65
 Jane Darwell,Louis Mason,3,5.65
+Joan Baez,Johnny Cash,3,5.65
+Joan Baez,Pete Seeger,3,5.65
+Joel McCrea,Louise Beavers,3,5.65
 Lane Chandler,Don Costello,3,5.65
 Lino Banfi,Gino Pagnani,3,5.65
 Marco Messeri,Isabella Cecchi,3,5.65
 Olin Howland,Dorothy Vernon,3,5.65
+Purnell Pratt,Joan Crawford,3,5.65
 Rip Torn,Geraldine Page,3,5.65
 Robert McKenzie,Charles Murphy,3,5.65
 Robert McKenzie,Merrill McCormick,3,5.65
@@ -41450,7 +41598,9 @@ Harry Davenport,Trevor Bardette,3,5.6
 Hooper Atchley,Frank O'Connor,3,5.6
 John Merton,Stanley Andrews,3,5.6
 Minerva Urecal,Tom Quinn,3,5.6
+Myrna Loy,Walter Connolly,3,5.6
 Paolo Bonacelli,Gigi Proietti,3,5.6
+Preston Foster,James Bell,3,5.6
 Regis Toomey,Creighton Hale,3,5.6
 Robert Gleckler,John Dilson,3,5.6
 Spencer Tracy,George Magrill,3,5.6
@@ -41949,6 +42099,7 @@ Andreu Buenafuente,Sílvia Abril,3,5.5
 Andy Dick,Dax Shepard,3,5.5
 Ann Dvorak,Grady Sutton,3,5.5
 Anthony Chan,Kenny Bee,3,5.5
+Arlo Guthrie,Pete Seeger,3,5.5
 Arnold Agee,Amanda Wright,3,5.5
 Arthur Aylesworth,Robert Winkler,3,5.5
 Arthur Hoyt,Wilson Benge,3,5.5
@@ -42097,6 +42248,7 @@ Pat O’Brien,Dick Powell,3,5.5
 Peter Butterworth,Jack Douglas,3,5.5
 Peter Lawford,Donna Reed,3,5.5
 Peter Lorre,Frederick Vogeding,3,5.5
+Porter Hall,Warren William,3,5.5
 Raimondo Vianello,Mario Castellani,3,5.5
 Raymond Burr,Alexandra Paul,3,5.5
 Raymond Hatton,Theodore Roberts,3,5.5
@@ -42343,11 +42495,14 @@ Milburn Stone,Edgar Dearing,3,5.45
 Olin Howland,Louise Beavers,3,5.45
 Van Johnson,Isobel Elsom,3,5.45
 Walter Baldwin,Bess Flowers,3,5.45
+Alan Dinehart,John George,3,5.45
 Dame May Whitty,Bess Flowers,3,5.45
 Don Beddoe,Barry Sullivan,3,5.45
+Fay Wray,Clarence Muse,3,5.45
 Frank Ferguson,Irving Bacon,3,5.45
 Fred Clark,Frankie Avalon,3,5.45
 Guy Kibbee,Edward McWade,3,5.45
+Lyle Talbot,Warren William,3,5.45
 Reginald Owen,Henry Kolker,3,5.45
 Addison Richards,Edgar Dearing,3,5.4333
 Ajay Devgn,Murali Sharma,3,5.4333
@@ -42583,12 +42738,14 @@ Art Mix,Monte Montague,3,5.4
 Egon Brecher,Frank Mayo,3,5.4
 Emmett Vogan,Eddie Parker,3,5.4
 Ethel Griffies,Alec Craig,3,5.4
+Frank Faylen,Henry Kolker,3,5.4
 George Irving,Guinn Williams,3,5.4
 George Lloyd,Bob Kortman,3,5.4
 George Reeves,Roy Bucko,3,5.4
 George Reeves,Tex Cooper,3,5.4
 Granville Bates,Larry Steers,3,5.4
 Irving Bacon,Franchot Tone,3,5.4
+Jane Darwell,Ginger Rogers,3,5.4
 Jim Farley,Monte Montague,3,5.4
 Joe Sawyer,Guy Usher,3,5.4
 Katharine Isabelle,Ben Cotton,3,5.4
@@ -42673,7 +42830,6 @@ Frank Orth,Don Barry,3,5.4
 Frank Wilcox,Harry Cording,3,5.4
 Gary Cooper,Sterling Holloway,3,5.4
 Gary Wilmes,Paul Sparks,3,5.4
-George Chandler,Lee Phelps,3,5.4
 George Chesebro,Harry Tenbrook,3,5.4
 Gino Corrado,Harry Depp,3,5.4
 Giorgia Wurth,Marta Zoffoli,3,5.4
@@ -43095,6 +43251,7 @@ Abhishek Bachchan,Sunil Shetty,3,5.3
 Addison Richards,Art Mix,3,5.3
 Addison Richards,Gene Alsace,3,5.3
 Alejo Sauras,Asier Etxeandia,3,5.3
+Allen Jenkins,Olin Howland,3,5.3
 Andrei Panin,Vladimir Ilin,3,5.3
 Arshad Warsi,Prem Chopra,3,5.3
 Art Mix,Gene Alsace,3,5.3
@@ -43319,6 +43476,7 @@ Wolfgang Zilzer,Albert Bassermann,3,5.2667
 Alan Mowbray,Juliette Compton,3,5.25
 Charles Lane,Sam McDaniel,3,5.25
 Clifton James,Sorrell Booke,3,5.25
+Fay Wray,Bess Flowers,3,5.25
 Mitchell Lewis,Robert Middlemass,3,5.25
 Richard Carle,Edgar Kennedy,3,5.25
 Tom Felleghy,Paul Müller,3,5.25
@@ -43338,7 +43496,6 @@ Arthur Aylesworth,Tom McGuire,3,5.2333
 Athena Karkanis,Devon Bostick,3,5.2333
 Ben Johnson,Sam Elliott,3,5.2333
 Benita Ha,Aaron Douglas,3,5.2333
-Bess Flowers,Heinie Conklin,3,5.2333
 Bess Flowers,Larry McGrath,3,5.2333
 Brian Doyle-Murray,Rick Ducommun,3,5.2333
 Carrie Fisher,Joe Mantegna,3,5.2333
@@ -43346,7 +43503,6 @@ Cary Grant,Henry Stephenson,3,5.2333
 Charles Coburn,Edward LeSaint,3,5.2333
 Charles Laughton,Maureen O'Sullivan,3,5.2333
 Charles Middleton,Loretta Young,3,5.2333
-Clark Gable,Joseph Crehan,3,5.2333
 Cliff Clark,Harold Miller,3,5.2333
 Creighton Hale,Eddy Waller,3,5.2333
 Cyril Ring,Ralph Brooks,3,5.2333
@@ -43429,7 +43585,6 @@ Russell Simpson,Tom McGuire,3,5.2333
 Ruth Gordon,Roddy McDowall,3,5.2333
 Salman Khan,Katrina Kaif,3,5.2333
 "Sammy Davis, Jr.",Hank Henry,3,5.2333
-Samuel S. Hinds,Charles C. Wilson,3,5.2333
 Spencer Charters,Frank McHugh,3,5.2333
 Spencer Charters,Tom McGuire,3,5.2333
 Stanley Blystone,Frank Jaquet,3,5.2333
@@ -43480,6 +43635,7 @@ Charles Halton,Roy Bucko,3,5.2
 Clara Blandick,Bud Geary,3,5.2
 Clara Blandick,Hector V. Sarno,3,5.2
 Cliff Clark,Blackie Whiteford,3,5.2
+Cliff Edwards,Natalie Moorhead,3,5.2
 Dany Boon,Valérie Bonneton,3,5.2
 Dean Martin,Peter Lawford,3,5.2
 Donald Gibb,Curtis Armstrong,3,5.2
@@ -43582,6 +43738,8 @@ Yuriy Kutsenko,Artur Smolyaninov,3,5.2
 Alan Hale,Paul Harvey,3,5.2
 Colm Feore,Roger Dunn,3,5.2
 David Torrence,Ralph Forbes,3,5.2
+Joel McCrea,Edward LeSaint,3,5.2
+John Carradine,Louise Beavers,3,5.2
 Lee Shumway,Lew Harvey,3,5.2
 Stanley Andrews,Joseph Crehan,3,5.2
 Ajay Devgn,Ashwini Kalsekar,3,5.1667
@@ -43717,6 +43875,8 @@ Egon Brecher,Jack Mower,3,5.15
 Frank Faylen,Don Turner,3,5.15
 Holmes Herbert,David Clyde,3,5.15
 Jack Wise,Don Turner,3,5.15
+Jean Harlow,John Miljan,3,5.15
+John Miljan,Bess Flowers,3,5.15
 Kay Francis,C. Aubrey Smith,3,5.15
 Ken Clark,Antonio Gradoli,3,5.15
 Lumsden Hare,Holmes Herbert,3,5.15
@@ -43749,7 +43909,6 @@ Ele Bardha,Julia Ho,3,5.1333
 Eve Arden,Zachary Scott,3,5.1333
 Frank Mills,Ben Corbett,3,5.1333
 George Sanders,Linda Darnell,3,5.1333
-Ginger Rogers,Xavier Cugat,3,5.1333
 Howard C. Hickman,Tom Mahoney,3,5.1333
 Howard C. Hickman,Wally Maher,3,5.1333
 Irving Bacon,Mary Field,3,5.1333
@@ -43994,6 +44153,7 @@ Yuriy Kutsenko,Aleksey Gorbunov,3,5.0667
 Art Dillard,Al Haskell,3,5.05
 Barton MacLane,Harry Cording,3,5.05
 Clyde Cook,Arthur Shields,3,5.05
+Frank Hagney,Roy Bucko,3,5.05
 Ian Wolfe,Arthur Shields,3,5.05
 Ian Wolfe,Clyde Cook,3,5.05
 Tex Phelps,Blackie Whiteford,3,5.05
@@ -44002,6 +44162,7 @@ Barton MacLane,Charles Lane,3,5.05
 Bert Roach,Cliff Clark,3,5.05
 Dana Andrews,Jeanne Crain,3,5.05
 Eddie Griffin,Robert Townsend,3,5.05
+Edward Brophy,Louise Beavers,3,5.05
 Edward LeSaint,Edward Earle,3,5.05
 George Lloyd,Lane Chandler,3,5.05
 Kinuyo Tanaka,Yûji Hori,3,5.05
@@ -44009,6 +44170,7 @@ Lane Chandler,Ben Taggart,3,5.05
 Lo Lieh,Wang Hsieh,3,5.05
 Martin Balsam,Franco Nero,3,5.05
 Olin Howland,Dell Henderson,3,5.05
+Robert Montgomery,Mary Doran,3,5.05
 Roland Young,Zasu Pitts,3,5.05
 Sam Levene,James Bell,3,5.05
 Udo Kier,Julia Dietze,3,5.05
@@ -44017,7 +44179,6 @@ Ary Abittan,Cyril Lecomte,3,5.0333
 Charles Middleton,George Chesebro,3,5.0333
 Dee Wallace,Christopher Stone,3,5.0333
 Edouard Baer,Atmen Kelif,3,5.0333
-Edward Arnold,Byron Foulger,3,5.0333
 Frank Sinatra,Edward G. Robinson,3,5.0333
 Laura Soltis,Jill Morrison,3,5.0333
 Marie Windsor,Douglas Fowley,3,5.0333
@@ -44031,7 +44192,6 @@ Charles Middleton,Spencer Charters,3,5.0333
 Christopher Lloyd,Paul Scheer,3,5.0333
 Dan Aykroyd,Kim Cattrall,3,5.0333
 Daniel Roebuck,Jeff Daniel Phillips,3,5.0333
-Dennis Hopper,Mercedes McCambridge,3,5.0333
 Diedrich Bader,G. Hannelius,3,5.0333
 Errol Flynn,Frank Mills,3,5.0333
 Errol Flynn,Lane Chandler,3,5.0333
@@ -44147,6 +44307,7 @@ Michael Bowen,Noah Segan,3,5.0
 Michel Serrault,Jean Poiret,3,5.0
 Milton Kibbee,Ben Corbett,3,5.0
 Mitchell Lewis,Victor Potel,3,5.0
+Moroni Olsen,Rosemary DeCamp,3,5.0
 Nick Swardson,Tim Meadows,3,5.0
 Olin Howland,Payne B. Johnson,3,5.0
 Preity Zinta,Salman Khan,3,5.0
@@ -44299,7 +44460,6 @@ Ricardo Montalban,Cyd Charisse,3,4.9333
 Robin Duke,Eugene Levy,3,4.9333
 Roger Moore,David Niven,3,4.9333
 Rudy Ray Moore,Jimmy Lynch,3,4.9333
-Samuel S. Hinds,Moroni Olsen,3,4.9333
 Tomer Russo,Uri Ran Klauzner,3,4.9333
 Tyler Jon Olson,David Gordon,3,4.9333
 Vincent D'Onofrio,Thomas Jane,3,4.9333
@@ -44326,6 +44486,7 @@ Roy Roberts,Philip Carey,3,4.9
 Stanley Andrews,Ralph Dunn,3,4.9
 Syd Saylor,Kermit Maynard,3,4.9
 Trevor Bardette,Blackie Whiteford,3,4.9
+Una Merkel,John George,3,4.9
 Akshay Kumar,Sonakshi Sinha,3,4.9
 Anthony Quinn,Tawny Kitaen,3,4.9
 Balthazar Getty,David Arquette,3,4.9
@@ -44389,7 +44550,6 @@ Danny Trejo,Richard Riehle,3,4.8667
 Ekin Cheng,Jerry Lamb,3,4.8667
 Ernie Adams,Bob Kortman,3,4.8667
 Frank Mills,Herbert Heywood,3,4.8667
-Giuliana Calandra,Eros Pagni,3,4.8667
 Guy Kibbee,Hugh Herbert,3,4.8667
 Jay Mohr,Tom Arnold,3,4.8667
 Joe Strummer,Topper Headon,3,4.8667
@@ -44432,7 +44592,6 @@ Chu Mu,Lee Man-Tai,3,4.8333
 Cory Knauf,Samuel Child,3,4.8333
 Dave Foley,David DeLuise,3,4.8333
 Donald Faison,Jaime Pressly,3,4.8333
-Edward Arnold,Irving Bacon,3,4.8333
 Emory Parnell,Harry Strang,3,4.8333
 Frank Hagney,Edmund Cobb,3,4.8333
 Frank Jaquet,Cliff Clark,3,4.8333
@@ -44459,7 +44618,6 @@ Mackenzie Firgens,Joseph McKelheer,3,4.8333
 Mackenzie Firgens,Samuel Child,3,4.8333
 Marita Nordberg,Elli Castrén,3,4.8333
 Mitchell Lewis,Lee Phelps,3,4.8333
-Moroni Olsen,Charles C. Wilson,3,4.8333
 Morris Ankrum,Ray Teal,3,4.8333
 Paresh Rawal,Tanushree Dutta,3,4.8333
 Ralph Peters,Merrill McCormick,3,4.8333
@@ -44475,15 +44633,17 @@ Amitabh Bachchan,Sunil Shetty,3,4.8
 Anita Page,Polly Moran,3,4.8
 Arch Hall Sr.,Arch Hall Jr.,3,4.8
 Bennett Wayne Dean Sr.,Edward J. Delmore III,3,4.8
+Bessie Love,Charles King,3,4.8
 C. Aubrey Smith,Alan Mowbray,3,4.8
 Cary-Hiroyuki Tagawa,Sahajak Boonthanakit,3,4.8
 Cesar Romero,Frankie Avalon,3,4.8
 Charles Middleton,Jean Rogers,3,4.8
+Claire Dodd,Louise Beavers,3,4.8
 Cyril Ring,Jack Baxley,3,4.8
 David Cross,Bob Odenkirk,3,4.8
 Diane Klimaszewski,Elaine Klimaszewski,3,4.8
 Edward Hearn,George Burton,3,4.8
-Eros Pagni,Isa Danieli,3,4.8
+Edward LeSaint,Louise Beavers,3,4.8
 Erville Alderson,Edward Hearn,3,4.8
 Fern Emmett,Milton Kibbee,3,4.8
 Frank Reicher,Louis Calhern,3,4.8
@@ -44518,7 +44678,6 @@ Sunil Shetty,Arshad Warsi,3,4.8
 Theresa Harris,Edmund Mortimer,3,4.8
 Vera Lewis,Arthur Aylesworth,3,4.8
 Victor Kilian,Frank Mills,3,4.8
-Walter Pidgeon,Lana Turner,3,4.8
 Yuriy Kutsenko,Igor Vernik,3,4.8
 Addison Richards,Lloyd Ingraham,3,4.7667
 Andrey Merzlikin,Fyodor Bondarchuk,3,4.7667
@@ -44543,13 +44702,10 @@ Edward G. Robinson,Louis Adlon,3,4.7667
 Edward G. Robinson,Stuart Holmes,3,4.7667
 Edward G. Robinson,Wolfgang Zilzer,3,4.7667
 Egon Brecher,Louis Adlon,3,4.7667
-Frank Grillo,Callan Mulvey,3,4.7667
-Frank Puglia,Byron Foulger,3,4.7667
 G. W. Bailey,Lance Kinsey,3,4.7667
 Henry Otho,Jack Mower,3,4.7667
 Jet Li,Huang Xiaoming,3,4.7667
 Jim Farley,Frank O'Connor,3,4.7667
-Joan Crawford,Natalie Moorhead,3,4.7667
 L.Q. Jones,William Campbell,3,4.7667
 Larry Fessenden,Brian Morvant,3,4.7667
 Lauren Ashley Carter,Brian Morvant,3,4.7667
@@ -44590,6 +44746,7 @@ Fumiko Miyata,Terumi Hoshi,3,4.75
 Fumiko Miyata,Tomohiko Ôtani,3,4.75
 Gale Page,John Garfield,3,4.75
 George Lloyd,Karl Hackett,3,4.75
+Grant Mitchell,George Barbier,3,4.75
 Hiroshi Hayashi,Akira Tamura,3,4.75
 Hiroshi Hayashi,Chisako Hara,3,4.75
 Hiroshi Hayashi,Fumiko Miyata,3,4.75
@@ -44733,34 +44890,15 @@ Gary Grubbs,Stephanie Honoré,3,4.7333
 John Carradine,Charles Coburn,3,4.7333
 Katharine Isabelle,Chelan Simmons,3,4.7333
 Leon Ames,Richard Rober,3,4.7333
-Leon Ames,Xavier Cugat,3,4.7333
 Louise Beavers,Robert Elliott,3,4.7333
 Margaret Bert,Barbara Bedford,3,4.7333
 Mario Van Peebles,Melvin Van Peebles,3,4.7333
 Mimmo Palmara,Steve Reeves,3,4.7333
-Peter Bogdanovich,Henry Jaglom,3,4.7333
 Richard Kind,Janeane Garofalo,3,4.7333
-Robert Armstrong,Bess Flowers,3,4.7333
 Robert McKenzie,Eric Mayne,3,4.7333
 Susumu Terajima,Shun Sugata,3,4.7333
 Tony Hale,David Koechner,3,4.7333
 W.C. Fields,Alison Skipworth,3,4.7333
-Alexis Knapp,Ester Dean,3,4.7
-Alexis Knapp,Hana Mae Lee,3,4.7
-Alexis Knapp,Kelley Jakle,3,4.7
-Alexis Knapp,Shelley Regner,3,4.7
-Anna Camp,Alexis Knapp,3,4.7
-Anna Camp,Ester Dean,3,4.7
-Anna Camp,Hana Mae Lee,3,4.7
-Anna Camp,Kelley Jakle,3,4.7
-Anna Camp,Rebel Wilson,3,4.7
-Anna Camp,Shelley Regner,3,4.7
-Anna Kendrick,Alexis Knapp,3,4.7
-Anna Kendrick,Anna Camp,3,4.7
-Anna Kendrick,Ester Dean,3,4.7
-Anna Kendrick,Hana Mae Lee,3,4.7
-Anna Kendrick,Kelley Jakle,3,4.7
-Anna Kendrick,Shelley Regner,3,4.7
 Bernie Casey,Brian Tochi,3,4.7
 Bernie Casey,Curtis Armstrong,3,4.7
 Bernie Casey,Julia Montgomery,3,4.7
@@ -44772,14 +44910,6 @@ Brian Tochi,Julia Montgomery,3,4.7
 Brian Tochi,Larry B. Scott,3,4.7
 Brian Tochi,Robert Carradine,3,4.7
 Brian Tochi,Ted McGinley,3,4.7
-Brittany Snow,Alexis Knapp,3,4.7
-Brittany Snow,Anna Camp,3,4.7
-Brittany Snow,Anna Kendrick,3,4.7
-Brittany Snow,Ester Dean,3,4.7
-Brittany Snow,Hana Mae Lee,3,4.7
-Brittany Snow,Kelley Jakle,3,4.7
-Brittany Snow,Rebel Wilson,3,4.7
-Brittany Snow,Shelley Regner,3,4.7
 Charles Halton,Douglas Wood,3,4.7
 Christopher Lee,Percy Herbert,3,4.7
 Curtis Armstrong,Julia Montgomery,3,4.7
@@ -44787,39 +44917,22 @@ Danny Glover,Alec Baldwin,3,4.7
 Danny Glover,Kimberly Elise,3,4.7
 David Arquette,Lewis Arquette,3,4.7
 Don DeFore,Bess Flowers,3,4.7
-Elizabeth Banks,Alexis Knapp,3,4.7
-Elizabeth Banks,Anna Camp,3,4.7
-Elizabeth Banks,Brittany Snow,3,4.7
-Elizabeth Banks,Ester Dean,3,4.7
-Elizabeth Banks,Hana Mae Lee,3,4.7
-Elizabeth Banks,Kelley Jakle,3,4.7
-Elizabeth Banks,Shelley Regner,3,4.7
 Eric Roberts,Gary Daniels,3,4.7
 Eric Roberts,Keith David,3,4.7
-Ester Dean,Hana Mae Lee,3,4.7
-Ester Dean,Kelley Jakle,3,4.7
-Ester Dean,Shelley Regner,3,4.7
 Frank Mills,Eric Mayne,3,4.7
 Frank Reicher,Charles Trowbridge,3,4.7
-Hana Mae Lee,Kelley Jakle,3,4.7
-Hana Mae Lee,Shelley Regner,3,4.7
 Henry O'Neill,Jeffrey Lynn,3,4.7
 Ian Ziering,Steve Guttenberg,3,4.7
 Igor Jijikine,Aleksey Chadov,3,4.7
 John Wayne,Gino Corrado,3,4.7
-Kelley Jakle,Shelley Regner,3,4.7
 Larry B. Scott,Julia Montgomery,3,4.7
 Les Tremayne,Robert Burton,3,4.7
 Léa Drucker,Vincent Elbaz,3,4.7
 Megumi Hayashibara,Kazuhiko Kishino,3,4.7
+Miles Mander,Van Johnson,3,4.7
 Mischa Auer,Oscar Apfel,3,4.7
-Rebel Wilson,Alexis Knapp,3,4.7
-Rebel Wilson,Hana Mae Lee,3,4.7
-Rebel Wilson,Kelley Jakle,3,4.7
-Rebel Wilson,Shelley Regner,3,4.7
 Regis Toomey,John Harron,3,4.7
 Robert Carradine,Julia Montgomery,3,4.7
-Roland Toutain,Alexandre Rignault,3,4.7
 Roy Barcroft,Eddy Waller,3,4.7
 Scott Adkins,Nikolai Sotirov,3,4.7
 Soon-Tek Oh,Chuck Norris,3,4.7
@@ -44830,6 +44943,7 @@ Ted McGinley,Larry B. Scott,3,4.7
 Ted McGinley,Robert Carradine,3,4.7
 Tippi Hedren,Melanie Griffith,3,4.7
 Uschi Digard,Patrick Wright,3,4.7
+Joan Crawford,Gwen Lee,3,4.7
 Alan McRae,Margarita Franco,3,4.6667
 Amy Brassette,Aiden Flowers,3,4.6667
 Byron Foulger,Harry Tyler,3,4.6667
@@ -44843,7 +44957,6 @@ Glenn Strange,George Zucco,3,4.6667
 Harry Dean Stanton,Rip Torn,3,4.6667
 Jason Yribar,Becca Sweitzer,3,4.6667
 John Payne,Alice Faye,3,4.6667
-John Wengraf,Bess Flowers,3,4.6667
 Kenjiro Uemura,Hideaki Nitani,3,4.6667
 Lionel Pape,George Cathrey,3,4.6667
 Mike Dopud,Paul Wu,3,4.6667
@@ -44860,9 +44973,10 @@ Victor Wong,Alan McRae,3,4.6667
 Victor Wong,Margarita Franco,3,4.6667
 Walter Huston,Gene Lockhart,3,4.6667
 Ward Bond,Sterling Holloway,3,4.6667
-Warner Anderson,Bess Flowers,3,4.6667
 Bess Flowers,Ransom M. Sherman,3,4.65
 Bogdan Diklić,Milorad Mandić,3,4.65
+Clara Blandick,Lewis Stone,3,4.65
+Cliff Edwards,Edward Brophy,3,4.65
 Edward Hearn,Clinton Rosemond,3,4.65
 Harry Cording,Clinton Rosemond,3,4.65
 Harry Cording,Edward Hearn,3,4.65
@@ -44870,6 +44984,7 @@ Keenan Wynn,Roddy McDowall,3,4.65
 Lawrence Grant,Crauford Kent,3,4.65
 Mathilde Comont,Agostino Borgato,3,4.65
 Trevor Bardette,Edward Hearn,3,4.65
+Walter Pidgeon,Leo Carrillo,3,4.65
 William Worthington,Jack George,3,4.65
 Charley Grapewin,Sterling Holloway,3,4.6333
 Chuck Norris,Rick Prieto,3,4.6333
@@ -44879,7 +44994,6 @@ Dona Speir,Patty Duffek,3,4.6333
 Hope Marie Carlton,Dona Speir,3,4.6333
 Hope Marie Carlton,Patty Duffek,3,4.6333
 Hope Marie Carlton,Rodrigo Obregón,3,4.6333
-Joan Crawford,Dorothy Sebastian,3,4.6333
 Josh Flitter,Liliana Mumy,3,4.6333
 Kulbhushan Kharbanda,Farida Jalal,3,4.6333
 Malcolm McDowell,Michael Paré,3,4.6333
@@ -44898,13 +45012,11 @@ Marshall Bell,John Hawkes,3,4.6333
 Adam Wingard,Lane Hughes,3,4.6
 Arthur Treacher,Nella Walker,3,4.6
 Bennett Wayne Dean Sr.,Doris Dean,3,4.6
-Bess Flowers,Xavier Cugat,3,4.6
 Billy Zane,Lisa Collins,3,4.6
 Booboo Stewart,Fivel Stewart,3,4.6
 Chris Penn,Seymour Cassel,3,4.6
 Cyril Ring,William Worthington,3,4.6
 Danielle Harris,Jennifer Blanc,3,4.6
-Dennis Hopper,Henry Jaglom,3,4.6
 Dorothy Lamour,Cass Daley,3,4.6
 Egon Brecher,Edward Keane,3,4.6
 Elizabeth Patterson,Louise Beavers,3,4.6
@@ -44912,7 +45024,6 @@ J. Farrell MacDonald,Spencer Tracy,3,4.6
 James Lew,Gerald Okamura,3,4.6
 John De Bello,J. Stephen Peace,3,4.6
 Lester Matthews,Leslie Bradley,3,4.6
-Lewis Stone,John Gilbert,3,4.6
 Milo Ventimiglia,Justin Urich,3,4.6
 Mirco Nontschew,Atze Schröder,3,4.6
 Morris Ankrum,Barbara Billingsley,3,4.6
@@ -44926,6 +45037,8 @@ Vernon Wells,Rachel Riley,3,4.6
 Wayne Pére,Lance E. Nichols,3,4.6
 Yuriy Kutsenko,Mariya Shukshina,3,4.6
 Alan Hale,Raymond Walburn,3,4.6
+Ann Dvorak,Joan Crawford,3,4.6
+Ann Dvorak,Polly Moran,3,4.6
 Christian Slater,Sarah Ann Schultz,3,4.6
 Claire Du Brey,Ruth Robinson,3,4.6
 Doris Lloyd,George Davis,3,4.6
@@ -44950,13 +45063,11 @@ Clint Howard,Maria Ford,3,4.5667
 Colleen Camp,Joanne Baron,3,4.5667
 Edward McWade,Leonard Mudie,3,4.5667
 Egon Brecher,Harry Cording,3,4.5667
-Giovanni Ribisi,Stephen Lang,3,4.5667
 Helena Bergström,Ewa Fröling,3,4.5667
 James Russo,Paul Sloan,3,4.5667
 Jessie Arnold,Jack Baxley,3,4.5667
 Jesús Franco,Lina Romay,3,4.5667
 Kate Higgins,Ben Diskin,3,4.5667
-Keenan Wynn,Edward Arnold,3,4.5667
 Kim Novak,Ernie Kovacs,3,4.5667
 Louis Jean Heydt,Douglas Wood,3,4.5667
 Michael Spears,Eddie Spears,3,4.5667
@@ -44970,6 +45081,7 @@ Chill Wills,Robert Taylor,3,4.55
 Frank Faylen,Spencer Charters,3,4.55
 Hobart Cavanaugh,Bob Perry,3,4.55
 Hobart Cavanaugh,Eddy Chandler,3,4.55
+John Miljan,Gwen Lee,3,4.55
 Brad Johnson,Kirk Cameron,3,4.5333
 Cinthia Burke,Peter Michael Dillon,3,4.5333
 Frank Hagney,Jack Kirk,3,4.5333
@@ -45005,15 +45117,11 @@ Russell Simpson,Payne B. Johnson,3,4.5333
 Alan Hale,Russell Hicks,3,4.5
 Angus Scrimm,Ace Mask,3,4.5
 Angus Scrimm,Toni Naples,3,4.5
-Bess Flowers,William Halligan,3,4.5
 Bruce Penhall,Cynthia Brimhall,3,4.5
-Byron Foulger,William Halligan,3,4.5
-Charles C. Wilson,Lyle Talbot,3,4.5
 Clark Gable,Marjorie Rambeau,3,4.5
 Cliff Clark,Ann Todd,3,4.5
 Cy Kendall,Jack Mower,3,4.5
 Cynthia Brimhall,Rodrigo Obregón,3,4.5
-Dickie Moore,Brooks Benedict,3,4.5
 Eddy Waller,Payne B. Johnson,3,4.5
 Ellinor Vanderveer,Herbert Prior,3,4.5
 Eric Roberts,Sara Malakul Lane,3,4.5
@@ -45041,13 +45149,13 @@ Peter Spellos,Steve Barkett,3,4.5
 Roberta Vasquez,Bruce Penhall,3,4.5
 Roberta Vasquez,Cynthia Brimhall,3,4.5
 Roberta Vasquez,Dona Speir,3,4.5
+Rosemary DeCamp,Mark Stevens,3,4.5
 Ross Hagen,Steve Barkett,3,4.5
 Sullivan Stapleton,Grant Piro,3,4.5
 Toni Naples,Ace Mask,3,4.5
 Victor Kilian,Guinn Williams,3,4.5
 Vinnie Jones,Tom Sizemore,3,4.5
 Virginia Mayo,Michael Pate,3,4.5
-Zoe Saldana,Sigourney Weaver,3,4.5
 Alan Ladd,Joseph Calleia,3,4.4667
 Brendan Fraser,Anne Fletcher,3,4.4667
 Bruno VeSota,Dick Miller,3,4.4667
@@ -45080,28 +45188,26 @@ Henry O'Neill,Grace Stafford,3,4.45
 Paul E. Burns,Blackie Whiteford,3,4.45
 Robert Taylor,Cy Kendall,3,4.45
 Tully Marshall,Paul E. Burns,3,4.45
+Anita Page,Gwen Lee,3,4.45
+Ann Dvorak,Anita Page,3,4.45
 Buster Keaton,Anita Page,3,4.45
+Buster Keaton,Ann Dvorak,3,4.45
 Amitabh Bachchan,Ajay Devgn,3,4.4333
 Barry Bostwick,Rodger Halston,3,4.4333
 C. Aubrey Smith,Henry Wilcoxon,3,4.4333
-Dennis Hopper,Peter Bogdanovich,3,4.4333
 Edward G. Robinson,Louis Jean Heydt,3,4.4333
 Ele Bardha,John P. Chittick ,3,4.4333
 Garry Chalk,Brendan Fletcher,3,4.4333
 Harry Stubbs,Ellis Irving,3,4.4333
-Hedda Hopper,Dorothy Sebastian,3,4.4333
 Ian McKellen,Judi Dench,3,4.4333
 J. Farrell MacDonald,Brandon Hurst,3,4.4333
 John Candy,Dave Thomas,3,4.4333
 Johnny Lever,Ajay Devgn,3,4.4333
 Karen Morley,Lewis Stone,3,4.4333
-Leon Ames,Lana Turner,3,4.4333
 Ryan Barrett,Colin Paradine,3,4.4333
 Shun Sugata,Ren Osugi,3,4.4333
 Takehito Koyasu,Kikuko Inoue,3,4.4333
 Tim Hodge,Jim Poole,3,4.4333
-Vlad Ivanov,Adrian Titieni,3,4.4333
-Walter Huston,John Miljan,3,4.4333
 Will Patton,Nick Nolte,3,4.4333
 Юлия Снигирь,Aleksey Serebryakov,3,4.4333
 Brandon Slagle,Devanny Pinn,3,4.4
@@ -45136,14 +45242,11 @@ John P. Chittick ,Ralph A. Recchia ,3,4.4
 Olin Howland,Frank McGlynn Sr.,3,4.4
 Olin Howland,Philip Hurlic,3,4.4
 Paul D. Hunt,Danielle Ryan Chuchran,3,4.4
-Porter Hall,Olin Howland,3,4.4
 Ron Causey ,John P. Chittick ,3,4.4
 Russell Simpson,Robert McKenzie,3,4.4
 Tara Reid,Al Roker,3,4.4
 Tara Reid,Anthony C. Ferrante,3,4.4
 Tara Reid,Benjy Bronk,3,4.4
-Tully Marshall,Mitchell Lewis,3,4.4
-Arthur Holden,Raphael Grosz-Harvey,3,4.3667
 Bob Burns,Edward Burns,3,4.3667
 Cary Grant,Jack Oakie,3,4.3667
 Josiane Balasko,François-Xavier Demaison,3,4.3667
@@ -45160,7 +45263,6 @@ Kulbhushan Kharbanda,Dina Pathak,3,4.3667
 Michael Paré,Tyron Leitso,3,4.3667
 Oliver Reed,Samantha Eggar,3,4.3667
 Ray Teal,Guinn Williams,3,4.3667
-Stacy Keach,Bruce Greenwood,3,4.3667
 Brenda Bakke,William Bumiller,3,4.35
 Jean Hersholt,Wallace Ford,3,4.35
 Olin Howland,Edward McWade,3,4.35
@@ -45173,44 +45275,38 @@ Ginger Rogers,Lyle Talbot,3,4.3333
 Hobart Cavanaugh,Clem Bevans,3,4.3333
 Jay Brazeau,Michael Eklund,3,4.3333
 Leonid Kinskey,Sterling Holloway,3,4.3333
-Lewis Stone,John Miljan,3,4.3333
 Martin Blencowe,Tyler Jon Olson,3,4.3333
 Miles Malleson,Herbert Lomas,3,4.3333
-Porter Hall,Frank Puglia,3,4.3333
 Ritesh Deshmukh,Aashish Chaudhary,3,4.3333
-Stephen Lang,Matt Gerald,3,4.3333
 Tom Dugan,Charles Trowbridge,3,4.3333
 Tom Dugan,Sterling Holloway,3,4.3333
 Ward Bond,Gene Reynolds,3,4.3333
+Ann Dvorak,Robert Montgomery,3,4.3
+Clarence Wilson,Allan Lane,3,4.3
 Don Johnson,Melanie Griffith,3,4.3
 Edward Brophy,Hale Hamilton,3,4.3
-Ginger Rogers,Robert Benchley,3,4.3
-John Garfield,Dane Clark,3,4.3
-John Ridgely,Eleanor Parker,3,4.3
 Johnny Messner,Michael Paré,3,4.3
+Miles Mander,George Zucco,3,4.3
 Nicolas Cage,Peter Fonda,3,4.3
 Otto Kruger,Edward G. Robinson,3,4.3
-Peter Cushing,Caron Gardner,3,4.3
 Peter Spellos,Bob Sheridan,3,4.3
 Peter Spellos,Toni Naples,3,4.3
+Polly Moran,Charles King,3,4.3
 Robert Barrat,Ray Teal,3,4.3
 Russell Simpson,Creighton Hale,3,4.3
 Slim Whitaker,Lafe McKee,3,4.3
 Toni Naples,Becky LeBeau,3,4.3
 Toni Naples,Bob Sheridan,3,4.3
-Walter Pidgeon,Frank Faylen,3,4.3
 Yuriy Kutsenko,Fyodor Bondarchuk,3,4.3
 Beulah Bondi,Sterling Holloway,3,4.2667
 Bipasha Basu,Sanjay Dutt,3,4.2667
 Cathy Downs,William Hudson,3,4.2667
 Gulshan Grover,Kulbhushan Kharbanda,3,4.2667
 John Hodiak,Bruce Cowling,3,4.2667
-John Ridgely,Don McGuire,3,4.2667
-Joseph Crehan,Al Shean,3,4.2667
 Lis Nilheim,Sif Ruud,3,4.2667
 Nella Walker,Harry Tyler,3,4.2667
 Sterling Holloway,Harry Tyler,3,4.2667
-Will Smith,Martin Lawrence,3,4.2667
+John George,Heinie Conklin,3,4.25
 John Miljan,James Donlan,3,4.25
 Wilfred Lucas,Bud Geary,3,4.25
 Christopher Lloyd,Larry Miller,3,4.2333
@@ -45219,7 +45315,6 @@ Eddie Marr,Barney Phillips,3,4.2333
 Frank Shannon,Robert Homans,3,4.2333
 Jack Kruschen,Eddie Marr,3,4.2333
 Jason London,Jason Scott Lee,3,4.2333
-John Ridgely,Warren Douglas,3,4.2333
 John Wayne,Art Mix,3,4.2333
 Karra Elejalde,Gorka Aguinagalde,3,4.2333
 Karra Elejalde,Manuel Manquiña,3,4.2333
@@ -45229,8 +45324,6 @@ Ryo Kase,Ren Osugi,3,4.2333
 Selmer Jackson,Blackie Whiteford,3,4.2333
 Stellan Skarsgård,Ernst Günther,3,4.2333
 Vinnie Bilancio,Victoria De Mare,3,4.2333
-Wallace Beery,Nelson McDowell,3,4.2333
-Warren Douglas,John Garfield,3,4.2333
 Wilfred Lucas,Edward McWade,3,4.2333
 Beulah Bondi,Gene Lockhart,3,4.2
 Bob Denver,Dawn Wells,3,4.2
@@ -45238,8 +45331,6 @@ C. Thomas Howell,Jake Busey,3,4.2
 Claire Du Brey,Selmer Jackson,3,4.2
 Danny Trejo,Eric Roberts,3,4.2
 Danny Trejo,Eve Mauro,3,4.2
-Dickie Moore,Joan Blondell,3,4.2
-Dorothy Jordan,Clarence Muse,3,4.2
 Frank Morgan,Esther Dale,3,4.2
 John Carradine,Kent Taylor,3,4.2
 John Wayne,Lloyd Whitlock,3,4.2
@@ -45263,7 +45354,6 @@ Lenny Juliano,Becky LeBeau,3,4.1667
 Lyle Talbot,Edward D. Wood Jr.,3,4.1667
 Moroni Olsen,Blackie Whiteford,3,4.1667
 Moroni Olsen,Frank Mills,3,4.1667
-Myrna Loy,Clarence Muse,3,4.1667
 Robert Young,Franchot Tone,3,4.1667
 Russell Simpson,Blackie Whiteford,3,4.1667
 Russell Simpson,Moroni Olsen,3,4.1667
@@ -45277,13 +45367,9 @@ Robert Emmet O'Connor,Ray Teal,3,4.15
 Robert Gustafsson,Henrik Schyffert,3,4.15
 Robert Young,Bess Flowers,3,4.15
 Robert Young,Ferdinand Gottschalk,3,4.15
-Van Johnson,Xavier Cugat,3,4.1333
 Wesley Snipes,Warren Derosa,3,4.1333
 Bipasha Basu,Sunil Shetty,3,4.1333
-Henry Kolker,Joseph Crehan,3,4.1333
-John Ridgely,Rory Mallinson,3,4.1333
 Bob Burns,Jim Corey,3,4.1
-Edward Peil Sr.,Joseph Crehan,3,4.1
 Gabriele Tinti,Lorraine De Selle,3,4.1
 George Lloyd,John Miljan,3,4.1
 J. Farrell MacDonald,Donald Meek,3,4.1
@@ -45293,15 +45379,12 @@ Juhi Chawla,Gulshan Grover,3,4.1
 Laura Gemser,Lorraine De Selle,3,4.1
 Margaretha Krook,Pernilla August,3,4.1
 Moroni Olsen,Eddy Waller,3,4.1
-Robert McWade,Claire Dodd,3,4.1
 Sergey Shakurov,Vyacheslav Razbegaev,3,4.1
 Tom Lister Jr.,Clint Howard,3,4.1
 Velizar Binev,Nikolai Sotirov,3,4.1
-William Bakewell,Joan Crawford,3,4.1
+John Carradine,Noah Beery,3,4.1
 Joseph Schildkraut,Henry Wilcoxon,3,4.1
 Ward Bond,Jack La Rue,3,4.1
-Arthur Holden,Richard Jutras,3,4.0667
-Clark Gable,Hale Hamilton,3,4.0667
 Gino Corrado,Heinie Conklin,3,4.0667
 James Millican,William Haade,3,4.0667
 Jamie Kennedy,Andy Dick,3,4.0667
@@ -45310,24 +45393,20 @@ Steve Franken,Lenny Juliano,3,4.0667
 Tom Sizemore,Michael Paré,3,4.0667
 Chill Wills,Henry O'Neill,3,4.05
 Cyril Ring,Joe Cunningham,3,4.05
+Marie Dressler,Polly Moran,3,4.05
 Antonia Dorian,Toni Naples,3,4.0333
 Peter Spellos,Antonia Dorian,3,4.0333
 Sanjay Dutt,Satish Kaushik,3,4.0333
 Gino Corrado,Nella Walker,3,4.0333
 Gregory Harrison,Jake Dinwiddie,3,4.0333
-Jack Benny,George K. Arthur,3,4.0333
-Jack Benny,Marie Dressler,3,4.0333
-Marie Dressler,George K. Arthur,3,4.0333
 Megumi Hayashibara,Maria Kawamura,3,4.0333
 Norbert Weisser,Andrew Divoff,3,4.0333
-Walter Huston,Wallace Ford,3,4.0333
 Amber Kuo,Cheney Chen,3,4.0
 Amber Kuo,Evonne Hsieh,3,4.0
 Amber Kuo,Haden Kuo,3,4.0
 Amber Kuo,Kai Ko,3,4.0
 Amber Kuo,Yang Mi,3,4.0
 Arthur Treacher,Halliwell Hobbes,3,4.0
-Barton MacLane,Lyle Talbot,3,4.0
 Cheney Chen,Evonne Hsieh,3,4.0
 Claire McDowell,Clem Bevans,3,4.0
 Claire McDowell,Harry Strang,3,4.0
@@ -45337,12 +45416,12 @@ Haden Kuo,Evonne Hsieh,3,4.0
 J. Farrell MacDonald,Ginger Rogers,3,4.0
 Jim Farley,Bud Geary,3,4.0
 John Ince,Victor Potel,3,4.0
+John Miljan,Mary Doran,3,4.0
 Kai Ko,Cheney Chen,3,4.0
 Kai Ko,Evonne Hsieh,3,4.0
 Kai Ko,Haden Kuo,3,4.0
 Kurt Kasznar,Robert Taylor,3,4.0
 Larry Fine,Ted Healy,3,4.0
-Leon Ames,Irving Bacon,3,4.0
 Michael Nyqvist,Jonas Karlsson,3,4.0
 Mimmo Palmara,Nello Pazzafini,3,4.0
 Moe Howard,Ted Healy,3,4.0
@@ -45355,47 +45434,34 @@ Yang Mi,Cheney Chen,3,4.0
 Yang Mi,Evonne Hsieh,3,4.0
 Yang Mi,Haden Kuo,3,4.0
 Yang Mi,Kai Ko,3,4.0
-Clark Gable,Joan Marsh,3,3.9667
 Don Beddoe,William Gargan,3,3.9667
-Frank Reicher,Chris-Pin Martin,3,3.9667
 Gene Reynolds,Arthur Aylesworth,3,3.9667
-George Irving,Wallace Ford,3,3.9667
-Henry Jaglom,Oja Kodar,3,3.9667
 Michelle Bauer,Deborah Dutch,3,3.9667
 Russ Tamblyn,Regina Carrol,3,3.9667
 Vinnie Jones,Steven Seagal,3,3.9667
-James Coco,Doris Roberts,3,3.9667
 Mara Corday,Morris Ankrum,3,3.9667
-Edward Arnold,Van Johnson,3,3.95
 Frank Ellis,Bud Osborne,3,3.95
+Frank Ellis,Frank Hagney,3,3.95
 Yakima Canutt,Lafe McKee,3,3.95
 Aleksey Serebryakov,Vyacheslav Razbegaev,3,3.9333
-Anita Page,Dorothy Sebastian,3,3.9333
 Arved Birnbaum,Davorka Tovilo,3,3.9333
 Bud Geary,Clem Bevans,3,3.9333
 John Wayne,Ruth Hall,3,3.9333
-Leila Hyams,Lewis Stone,3,3.9333
 Carmen Electra,Jennifer Coolidge,3,3.9
 Amrita Arora,Sunil Shetty,3,3.9
-Clark Gable,Frank Faylen,3,3.9
 Clark Gable,Stuart Erwin,3,3.9
 Frank Conroy,Edward Brophy,3,3.9
 Henry B. Walthall,Stuart Erwin,3,3.9
 Jon Voight,Skyler Shaye,3,3.9
-Keenan Wynn,Xavier Cugat,3,3.9
 Robert McKenzie,Victor Potel,3,3.9
-Rosemary DeCamp,Frank Puglia,3,3.9
-George Barbier,Sheila Bromley,3,3.8667
-Ann Doran,Anthony Caruso,3,3.8667
 Anupam Kher,Sunny Deol,3,3.8667
 Arthur Treacher,Etienne Girardot,3,3.8667
-Phyllis Thaxter,Bess Flowers,3,3.85
+Hedda Hopper,Joan Crawford,3,3.85
 Richard Haydn,Bess Flowers,3,3.85
 Frank Hagney,Slim Whitaker,3,3.8333
 George Eastman,Lucia Ramirez,3,3.8333
 George Eastman,Mark Shannon,3,3.8333
 Heikki Kinnunen,Mari Vainio,3,3.8333
-John Carradine,Binnie Barnes,3,3.8333
 Kalevi Kahra,Mari Vainio,3,3.8333
 Mark Shannon,Lucia Ramirez,3,3.8333
 Pekka Huotari,Heikki Kinnunen,3,3.8333
@@ -45407,36 +45473,23 @@ Pertti Koivula,Tom Pöysti,3,3.8333
 Tom Pöysti,Mari Vainio,3,3.8333
 Vesa Vierikko,Mari Vainio,3,3.8333
 Vesa Vierikko,Pertti Koivula,3,3.8333
-Xavier Cugat,Lina Romay,3,3.8333
 Zachary Scott,Douglas Kennedy,3,3.8333
 Antonia Dorian,Lenny Juliano,3,3.8
 Danny Denzongpa,Raj Babbar,3,3.8
 Gulshan Grover,Urmila Matondkar,3,3.8
 Peter Spellos,Lenny Juliano,3,3.8
-Russell Simpson,Carl Stockdale,3,3.8
 Yuriy Kutsenko,Kristina Orbakayte,3,3.8
 Allen Jenkins,Marcia Ralston,3,3.8
 Charles Lane,Lucille Ball,3,3.8
 Jack Mower,Anderson Lawler,3,3.8
 Lionel Stander,Jane Barnes,3,3.8
-Polly Moran,George K. Arthur,3,3.8
 Uwe Boll,Arved Birnbaum,3,3.8
 Uwe Boll,Steffen Mennekes,3,3.8
-Ann Doran,Moroni Olsen,3,3.7667
-Bob Dylan,Pete Seeger,3,3.7667
-Hedda Hopper,Oscar Apfel,3,3.7667
-Joan Baez,Johnny Cash,3,3.7667
-Joan Baez,Pete Seeger,3,3.7667
-Joel McCrea,Louise Beavers,3,3.7667
-Purnell Pratt,Joan Crawford,3,3.7667
-Ginger Rogers,Claudette Colbert,3,3.75
 Laurence Olivier,Alan Bates,3,3.75
 Lionel Barrymore,Franchot Tone,3,3.75
 Joan Crawford,Charles Trowbridge,3,3.7333
 John Wayne,Henry Hall,3,3.7333
 Jukka Puotila,Kalevi Kahra,3,3.7333
-Myrna Loy,Walter Connolly,3,3.7333
-Preston Foster,James Bell,3,3.7333
 Scott Brady,John 'Bud' Cardos,3,3.7333
 Bud Osborne,Jim Corey,3,3.7
 Bud Osborne,Slim Whitaker,3,3.7
@@ -45446,7 +45499,6 @@ Kenneth Harlan,Walter McGrail,3,3.7
 Clara Blandick,Joan Crawford,3,3.7
 Robert McWade,Sterling Holloway,3,3.7
 Helena Bergström,Rolf Lassgård,3,3.6667
-Porter Hall,Warren William,3,3.6667
 Ciccio Ingrassia,Lino Banfi,3,3.65
 Lino Banfi,Franco Franchi,3,3.65
 Richard Carle,Polly Moran,3,3.65
@@ -45456,12 +45508,7 @@ John Wayne,Sheila Terry,3,3.6333
 Olin Howland,Jessie Arnold,3,3.6333
 Slim Whitaker,Bob Burns,3,3.6333
 Zack Ward,Michael Paré,3,3.6333
-Alan Dinehart,John George,3,3.6333
-Fay Wray,Clarence Muse,3,3.6333
-Lyle Talbot,Warren William,3,3.6333
 Barton MacLane,Henry Otho,3,3.6
-Frank Faylen,Henry Kolker,3,3.6
-Jane Darwell,Ginger Rogers,3,3.6
 Kangana Ranaut,Sanjay Dutt,3,3.6
 Russell Simpson,Willard Robertson,3,3.6
 Tair Mamedov,Roman Yunusov,3,3.6
@@ -45471,38 +45518,28 @@ Olin Howland,Robert McKenzie,3,3.5667
 Pentti Siimes,Kalevi Kahra,3,3.5667
 Ray Dennis Steckler,Carolyn Brandt,3,3.5667
 Blackie Whiteford,Payne B. Johnson,3,3.55
-Porter Hall,Genevieve Tobin,3,3.55
 Lou Ferrigno,Carla Ferrigno,3,3.5333
-Allen Jenkins,Olin Howland,3,3.5333
 Devanny Pinn,Tawny Amber Young,3,3.5333
 Gino Corrado,John George,3,3.5333
 Martin Kosleck,Carl Esmond,3,3.5333
 Arved Birnbaum,Nik Goldman,3,3.5
 Eddie Albert,Wilfred Lucas,3,3.5
-Fay Wray,Bess Flowers,3,3.5
 Joan Blondell,Bess Flowers,3,3.5
 Lee Phelps,Jack Baxley,3,3.5
 Steffen Mennekes,Arved Birnbaum,3,3.5
 Steffen Mennekes,Nik Goldman,3,3.5
 Vera Lewis,Lola Lane,3,3.5
 Beverly Garland,Jonathan Haze,3,3.4667
-Cliff Edwards,Natalie Moorhead,3,3.4667
 Ross Hagen,Claire Polan,3,3.4667
-Joel McCrea,Edward LeSaint,3,3.4667
-John Carradine,Louise Beavers,3,3.4667
 Anne Frith,Don Leifert,3,3.4333
 George Stover,Anne Frith,3,3.4333
 George Stover,Don Leifert,3,3.4333
 George Stover,Richard Dyszel,3,3.4333
-Jean Harlow,John Miljan,3,3.4333
-John Miljan,Bess Flowers,3,3.4333
 Richard Dyszel,Anne Frith,3,3.4333
 Richard Dyszel,Don Leifert,3,3.4333
 Angelo Rossitto,John Bloom,3,3.4
+Anita Page,Oscar Apfel,3,3.4
 Giacomo Rossi-Stuart,Enzo Fiermonte,3,3.4
-Frank Hagney,Roy Bucko,3,3.3667
-Edward Brophy,Louise Beavers,3,3.3667
-Robert Montgomery,Mary Doran,3,3.3667
 Ben Corbett,Bob Burns,3,3.35
 Eija Vilpas,Elina Pohjanpää,3,3.3333
 Eija Vilpas,Heikki Kinnunen,3,3.3333
@@ -45525,85 +45562,48 @@ Vesa Vierikko,Elina Pohjanpää,3,3.3333
 Vesa Vierikko,Maria Melin,3,3.3333
 Stephen Blackehart,Dean Kreyling,3,3.3
 Tony Cox,Carmen Electra,3,3.3
-Charles Ruggles,Claudette Colbert,3,3.3
 Donald Meek,Claudette Colbert,3,3.3
 Fred MacMurray,Donald Meek,3,3.3
-Una Merkel,John George,3,3.2667
-Ginger Rogers,Norman Foster,3,3.25
 Tanushree Dutta,Emraan Hashmi,3,3.2333
-Bessie Love,Charles King,3,3.2
 Jessie Ralph,Frank Conroy,3,3.2
 Maria Socas,Marcos Woinsky,3,3.2
-Grant Mitchell,George Barbier,3,3.1667
-John Ridgely,Ann Doran,3,3.15
 Garik Kharlamov,Mikhail Galustyan,3,3.1333
 Gerald Webb,Erica Duke,3,3.1333
-Joan Crawford,Gwen Lee,3,3.1333
-Clara Blandick,Lewis Stone,3,3.1
-Cliff Edwards,Edward Brophy,3,3.1
-Walter Pidgeon,Leo Carrillo,3,3.1
 Will Sanderson,Michael Paré,3,3.1
 Will Sanderson,Ona Grauer,3,3.0667
 Hobart Cavanaugh,Edmund Mortimer,3,3.05
+Joan Crawford,Hale Hamilton,3,3.05
 Robert McKenzie,Edmund Mortimer,3,3.05
-John Miljan,Gwen Lee,3,3.0333
 Mark Hengst,Jonathan Nation,3,3.0333
+Clara Blandick,Neil Hamilton,3,3.0
 Frankie Darro,Gabriel Dell,3,3.0
 Frankie Darro,Leo Gorcey,3,3.0
 Frankie Darro,William Benedict,3,3.0
 Huntz Hall,Frankie Darro,3,3.0
-Jack Holt,Bess Flowers,3,3.0
 Lucille Ball,Ferdinand Gottschalk,3,3.0
-Rosemary DeCamp,Mark Stevens,3,3.0
-Anita Page,Gwen Lee,3,2.9667
-Ann Dvorak,Anita Page,3,2.9667
-Buster Keaton,Ann Dvorak,3,2.9667
 Frank Morgan,Gino Corrado,3,2.9333
-Polly Moran,Charles King,3,2.8667
 Stella Stevens,Andrew Stevens,3,2.8667
-Bob Card,Hank Bell,3,2.85
-Bob Card,Roy Bucko,3,2.85
 John Burke,Caia Coley,3,2.8333
-John George,Heinie Conklin,3,2.8333
 Robert Dix,John 'Bud' Cardos,3,2.8
-Arlo Guthrie,Pete Seeger,3,2.75
 Maria Grazia Cucinotta,Enrico Lo Verso,3,2.75
 West Buchanan,Aldo Canti,3,2.75
 West Buchanan,Malisa Longo,3,2.75
 West Buchanan,Yanti Somer,3,2.75
 Yanti Somer,Aldo Canti,3,2.75
 Yanti Somer,Malisa Longo,3,2.75
-John Carradine,Noah Beery,3,2.7333
 Guy Kibbee,Arthur Aylesworth,3,2.7
-Marie Dressler,Polly Moran,3,2.7
-Frank Ellis,Frank Hagney,3,2.6333
-Hedda Hopper,Joan Crawford,3,2.5667
 Andrew Divoff,Robert Madrid,3,2.5333
 Karen Morley,Neil Hamilton,3,2.5
 Olin Howland,Hobart Cavanaugh,3,2.5
 Wilfred Lucas,Olin Howland,3,2.5
-Miles Mander,Van Johnson,3,2.35
-Ann Dvorak,Polly Moran,3,2.3
+Hedda Hopper,Edward Brophy,3,2.35
 Sterling Holloway,Henry Kolker,3,2.3
-Ann Dvorak,Robert Montgomery,3,2.15
-Clarence Wilson,Allan Lane,3,2.15
-Miles Mander,George Zucco,3,2.15
 Patsy van Ettinger,Damien Carter,3,2.1
-Porter Hall,Charles C. Wilson,3,2.0667
-Joan Crawford,Hale Hamilton,3,2.0333
 Franchot Tone,Ernie Alexander,3,2.0
 Lewis Stone,Halliwell Hobbes,3,2.0
 Lewis Stone,Helen Hayes,3,2.0
 Kent Taylor,Regina Carrol,3,1.9
-Anita Page,Oscar Apfel,3,1.7
-Moroni Olsen,Rosemary DeCamp,3,1.6667
-Claire Dodd,Louise Beavers,3,1.6
-Edward LeSaint,Louise Beavers,3,1.6
-Hedda Hopper,Edward Brophy,3,1.5667
-Ann Dvorak,Joan Crawford,3,1.5333
 Coleman Francis,Anthony Cardoza,3,1.3333
-John Miljan,Mary Doran,3,1.3333
-Clara Blandick,Neil Hamilton,3,1.0
 George Montgomery,Chief Thundercloud,3,1.0
 Alan Mowbray,Robert Greig,3,
 Andrea Aureli,Franco Gasparri,3,
