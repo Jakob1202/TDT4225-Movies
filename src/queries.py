@@ -497,9 +497,9 @@ class QueryProgram:
         highest mean vote_average, using only movies with vote_count ≥ 100, together with
         the number of films and their mean revenue.
 
-        A director acting in their own movie is included as a director–actor pair.
-        Each pair is counted once per movie, and the mean revenue only uses films
-        with a known revenue.
+        A director acting in their own movie is not counted as a pair, since a pair
+        consists of two different people. Each pair is counted once per movie, and the
+        mean revenue only uses films with a known revenue.
 
         Returns:
             None
@@ -518,6 +518,7 @@ class QueryProgram:
             }},
             {"$unwind": "$directors"},
             {"$unwind": "$actors"},
+            {"$match": {"$expr": {"$ne": ["$directors.id", "$actors.id"]}}},
             {"$group": {
                 "_id": {"director": "$directors.id", "actor": "$actors.id"},
                 "director": {"$first": "$directors.name"},
